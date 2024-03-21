@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 # Fetch the webpage content
 url = "https://www.tiobe.com/tiobe-index/"
@@ -22,11 +23,20 @@ if response.status_code == 200:
     rows = []
     for tr in table.find_all('tr')[1:]:  # Skip the header row
         cells = [td.text.strip() for td in tr.find_all('td')]
+        del cells[3]  # Delete the 4th column
         rows.append(cells)
 
     # Print the table data
     print("\nTable Data:")
     for row in rows:
         print(row)
+    
+    # Create a pandas DataFrame from the table data
+    df = pd.DataFrame(rows, columns=header)
+
+    # Export the DataFrame to a CSV file
+    df.to_csv('tiobe_index.csv', index=False)
 else:
     print(f"Failed to fetch the webpage. Status code: {response.status_code}")
+
+print (df)
