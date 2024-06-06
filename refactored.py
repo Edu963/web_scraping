@@ -38,7 +38,7 @@ def create_dataframe(header, rows):
     df = pd.DataFrame(rows, columns=header)
     # Clean and preprocess the DataFrame as needed
     df['Ratings'] = df['Ratings'].str.replace('%', '').astype(float)
-    
+    print(df['Ratings'][0])
     
    # Add the 'Grouped Language' column here
     df['Grouped Language'] = df.apply(lambda x: x['Programming Language'] if x['Ratings'] >= 3 else 'Others', axis=1)
@@ -66,5 +66,7 @@ soup = fetch_tiobe_index(url)
 if soup:
     header, rows = extract_table_data(soup)
     df = create_dataframe(header, rows)
+    export_to_csv(df)
     # Perform any additional DataFrame processing here, such as grouping into "Others"
     plot_donut_chart(df)  
+

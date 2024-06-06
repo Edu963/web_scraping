@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import requests
 import pandas as pd
+import ast
 
 def fetch_data(url, headers):
     """Fetch JSON data from a specified URL and return as a dictionary."""
@@ -97,3 +98,9 @@ if __name__ == "__main__":
         hbar_active_companies(df, economist_palette)
     except Exception as e:
         print(f"An error occurred: {e}")
+
+
+# Extract the 'languages' column
+languages_data = df['languages']
+
+print(languages_data)
