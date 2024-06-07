@@ -13,7 +13,19 @@ def process_data(data):
     """Process the JSON data and return a pandas DataFrame."""
     if 'data' in data and isinstance(data['data'], list):
         df = pd.DataFrame(data['data'])
-        return df
+        df = df[['company','languages']]
+        split_data = list()
+        for index, row in df.iterrows():
+            if row.iloc[1] is not None:
+                for language in row.iloc[1]:
+                    split_data.append({
+                        'company':row['company'],
+                        'language':language['name'],
+                        'amount':language['amount']
+                    })
+        df_final = pd.DataFrame(split_data)
+        df_final.set_index(df_final.columns[0])
+        return df_final
     else:
         raise ValueError("JSON structure doesn't match expected format.")
     

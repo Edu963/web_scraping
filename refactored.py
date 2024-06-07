@@ -67,4 +67,4 @@ if soup:
     header, rows = extract_table_data(soup)
     df = create_dataframe(header, rows)
     # Perform any additional DataFrame processing here, such as grouping into "Others"
-    plot_donut_chart(df)  
+    # plot_donut_chart(df)  
