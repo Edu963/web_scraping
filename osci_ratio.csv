@@ -1,0 +1,4994 @@
+company,language,amount
+Google,Go,103869
+Google,Rust,15775
+Google,C++,143409
+Google,R,1290
+Google,WebAssembly,3583
+Google,Perl,32
+Google,Haml,138
+Google,HCL,8148
+Google,Dockerfile,435
+Google,Brightscript,6
+Google,LookML,153
+Google,Jinja,41
+Google,Raku,7
+Google,Cython,29
+Google,Handlebars,13
+Google,Coq,17
+Google,Logos,13
+Google,Vim Script,15
+Google,Svelte,5
+Google,VHDL,1
+Google,TSQL,1
+Google,SQL,3
+Google,BitBake,7
+Google,Python,85000
+Google,Java,378948
+Google,Lua,79
+Google,OpenSCAD,6
+Google,Vim script,123
+Google,Starlark,10038
+Google,CMake,61
+Google,Objective-C,5692
+Google,SCSS,4449
+Google,Makefile,1404
+Google,TeX,713
+Google,Markdown,46
+Google,Emacs Lisp,108
+Google,Jsonnet,1966
+Google,Dylan,5
+Google,PowerShell,101
+Google,ZenScript,2
+Google,ZAP,2
+Google,PLSQL,4
+Google,Nunjucks,16
+Google,ANTLR,1
+Google,wdl,7
+Google,C,68033
+Google,TypeScript,45537
+Google,HTML,14255
+Google,Shell,6590
+Google,Common Lisp,1111
+Google,Dart,26466
+Google,LLVM,79
+Google,Ruby,2460
+Google,Verilog,761
+Google,Haskell,657
+Google,CSS,431
+Google,PHP,5588
+Google,Bikeshed,579
+Google,Lean,58
+Google,Swift,1224
+Google,OpenQASM,296
+Google,Isabelle,40
+Google,Apex,10
+Google,Nix,159
+Google,Vue,11
+Google,Cuda,2
+Google,Groovy,47
+Google,Meson,6
+Google,Fortran,6
+Google,CodeQL,5
+Google,EmberScript,1
+Google,Elixir,2
+Google,Kotlin,30271
+Google,JavaScript,24792
+Google,C#,5216
+Google,Jupyter Notebook,7208
+Google,Assembly,152
+Google,SystemVerilog,3185
+Google,MLIR,3726
+Google,Julia,31
+Google,Scala,81
+Google,Smarty,138
+Google,Gherkin,115
+Google,JSON,29
+Google,GLSL,7
+Google,Batchfile,24
+Google,Open Policy Agent,126
+Google,Sage,22
+Google,Rich Text Format,3
+Google,Astro,15
+Google,Tcl,4
+Google,OCaml,1
+Microsoft,TypeScript,147608
+Microsoft,Ruby,2694
+Microsoft,HCL,4007
+Microsoft,F*,2413
+Microsoft,R,271
+Microsoft,OCaml,448
+Microsoft,Open Policy Agent,164
+Microsoft,VBA,526
+Microsoft,JSON,1105
+Microsoft,Julia,2
+Microsoft,PureBasic,11
+Microsoft,PostScript,11
+Microsoft,Vim script,16
+Microsoft,SMT,34
+Microsoft,Tcl,6
+Microsoft,Cython,4
+Microsoft,Erlang,6
+Microsoft,Astro,2
+Microsoft,Vim Script,3
+Microsoft,Nix,1
+Microsoft,HLSL,1
+Microsoft,Go,62043
+Microsoft,C,30288
+Microsoft,Rust,8875
+Microsoft,PowerShell,202203
+Microsoft,Zig,1
+Microsoft,Scala,1397
+Microsoft,Lean,107
+Microsoft,Emacs Lisp,35
+Microsoft,AL,562
+Microsoft,GDB,70
+Microsoft,SCSS,900
+Microsoft,Swift,2163
+Microsoft,Jsonnet,1440
+Microsoft,Jinja,271
+Microsoft,Objective-C,884
+Microsoft,Stylus,8
+Microsoft,Perl,34
+Microsoft,ShaderLab,117
+Microsoft,ANTLR,6
+Microsoft,Coq,6
+Microsoft,Starlark,9
+Microsoft,Sass,2
+Microsoft,Dart,6
+Microsoft,Clojure,2
+Microsoft,HTML,19249
+Microsoft,C#,176411
+Microsoft,Python,60463
+Microsoft,CMake,2991
+Microsoft,Jupyter Notebook,10990
+Microsoft,Java,38800
+Microsoft,Makefile,289
+Microsoft,Dockerfile,2103
+Microsoft,TeX,122
+Microsoft,Handlebars,56
+Microsoft,XSLT,916
+Microsoft,wdl,11
+Microsoft,Vue,44
+Microsoft,Mustache,18
+Microsoft,Cuda,1
+Microsoft,P4,12
+Microsoft,Svelte,16
+Microsoft,PLpgSQL,17
+Microsoft,LLVM,6
+Microsoft,Groovy,5
+Microsoft,BitBake,1
+Microsoft,C++,50906
+Microsoft,Batchfile,165
+Microsoft,F#,2256
+Microsoft,Bicep,7420
+Microsoft,JavaScript,9869
+Microsoft,Shell,12788
+Microsoft,Lua,170
+Microsoft,Haskell,69
+Microsoft,PHP,1295
+Microsoft,CodeQL,199
+Microsoft,GCC Machine Description,47
+Microsoft,Rich Text Format,291
+Microsoft,Kotlin,1973
+Microsoft,CSS,2214
+Microsoft,Visual Basic .NET,22
+Microsoft,Roff,161
+Microsoft,TSQL,292
+Microsoft,ABAP,48
+Microsoft,Liquid,105
+Microsoft,Elixir,13
+Microsoft,Smarty,8
+Microsoft,Mathematica,6
+Microsoft,Boogie,1
+Microsoft,Bikeshed,13
+Microsoft,Isabelle,3
+Microsoft,Q#,9
+Microsoft,MDX,1
+Red Hat,C++,25118
+Red Hat,Ruby,6621
+Red Hat,Gherkin,5107
+Red Hat,Perl,379
+Red Hat,Smarty,778
+Red Hat,Cucumber,50
+Red Hat,Jsonnet,634
+Red Hat,Haskell,438
+Red Hat,M4,71
+Red Hat,Vim Script,20
+Red Hat,Emacs Lisp,13
+Red Hat,Objective-C,3
+Red Hat,VBA,2
+Red Hat,PLpgSQL,3
+Red Hat,Augeas,2
+Red Hat,Python,138887
+Red Hat,TypeScript,42904
+Red Hat,HTML,42135
+Red Hat,RobotFramework,1668
+Red Hat,Nix,227
+Red Hat,CSS,2046
+Red Hat,OCaml,288
+Red Hat,Tcl,59
+Red Hat,Elixir,6
+Red Hat,Handlebars,7
+Red Hat,Swift,8
+Red Hat,PLSQL,1
+Red Hat,CMake,4
+Red Hat,Open Policy Agent,1
+Red Hat,Go,211188
+Red Hat,Dhall,16
+Red Hat,Shell,75372
+Red Hat,Roff,818
+Red Hat,HCL,116
+Red Hat,Jinja,8292
+Red Hat,Lua,396
+Red Hat,Groovy,3285
+Red Hat,Cython,43
+Red Hat,Vala,129
+Red Hat,Dockerfile,24169
+Red Hat,Puppet,315
+Red Hat,Jupyter Notebook,249
+Red Hat,FreeMarker,34
+Red Hat,Vim script,39
+Red Hat,PowerShell,24
+Red Hat,PostScript,33
+Red Hat,CoffeeScript,20
+Red Hat,C,109617
+Red Hat,Java,71037
+Red Hat,Rust,11971
+Red Hat,JavaScript,12699
+Red Hat,Makefile,3534
+Red Hat,SCSS,5211
+Red Hat,XSLT,351
+Red Hat,Sass,113
+Red Hat,C#,180
+Red Hat,TeX,48
+Red Hat,Scala,489
+Red Hat,YAML,235
+Red Hat,Kotlin,466
+Red Hat,Rich Text Format,47
+Red Hat,Clojure,2097
+Red Hat,Mustache,85
+Red Hat,PHP,48
+Red Hat,Svelte,30
+Red Hat,GLSL,1
+Red Hat,Haml,58
+Red Hat,PureScript,5
+Red Hat,Nunjucks,1
+Red Hat,Meson,3
+Red Hat,ANTLR,3
+Red Hat,Vue,1
+Intel,Python,40485
+Intel,Go,14500
+Intel,Bikeshed,399
+Intel,Lua,40
+Intel,CMake,1918
+Intel,C#,239
+Intel,Cuda,731
+Intel,Mustache,155
+Intel,LLVM,597
+Intel,Roff,15
+Intel,Julia,58
+Intel,CSS,29
+Intel,Meson,12
+Intel,Perl,12
+Intel,M4,2
+Intel,Emacs Lisp,1
+Intel,RobotFramework,32
+Intel,Cython,1704
+Intel,Ruby,105
+Intel,Scala,4289
+Intel,Tcl,129
+Intel,SystemVerilog,24
+Intel,Groovy,719
+Intel,Dockerfile,114
+Intel,Vim script,9
+Intel,Singularity,20
+Intel,WebAssembly,6
+Intel,Open Policy Agent,1
+Intel,SCSS,1
+Intel,Kotlin,1
+Intel,Common Lisp,104
+Intel,Jupyter Notebook,5845
+Intel,Rust,3000
+Intel,Makefile,1037
+Intel,TeX,161
+Intel,MLIR,2456
+Intel,BitBake,784
+Intel,JavaScript,981
+Intel,Jinja,13
+Intel,HCL,43
+Intel,Svelte,22
+Intel,Smarty,6
+Intel,Vim Script,6
+Intel,GLSL,2
+Intel,Rich Text Format,2
+Intel,wdl,2
+Intel,QML,1
+Intel,C,93663
+Intel,Fortran,707
+Intel,HTML,3889
+Intel,C++,98933
+Intel,TypeScript,3804
+Intel,Dart,1046
+Intel,Shell,4508
+Intel,Java,1429
+Intel,Assembly,452
+Intel,Logos,529
+Intel,P4,121
+Intel,Vue,12
+Intel,Verilog,47
+Intel,MATLAB,24
+Intel,NASL,55
+Intel,Markdown,6
+Intel,PowerShell,4
+Intel,Sass,2
+Intel,PHP,1
+Amazon,C#,9986
+Amazon,Ruby,5463
+Amazon,JavaScript,7450
+Amazon,Mustache,168
+Amazon,PHP,998
+Amazon,F#,194
+Amazon,Julia,189
+Amazon,SCSS,159
+Amazon,Fortran,4
+Amazon,Inno Setup,25
+Amazon,SMT,34
+Amazon,Nix,4
+Amazon,Svelte,2
+Amazon,Java,39315
+Amazon,TeX,19
+Amazon,SWIG,2350
+Amazon,Boogie,188
+Amazon,HTML,5247
+Amazon,G-code,8
+Amazon,OCaml,68
+Amazon,Lean,141
+Amazon,Emacs Lisp,49
+Amazon,Objective-C,118
+Amazon,Dockerfile,310
+Amazon,Starlark,231
+Amazon,BitBake,158
+Amazon,YAML,50
+Amazon,CMake,9
+Amazon,Vim Script,5
+Amazon,Smarty,2
+Amazon,C,21993
+Amazon,Python,38619
+Amazon,Rust,14653
+Amazon,Shell,7388
+Amazon,HCL,1241
+Amazon,Dafny,305
+Amazon,Vim script,21
+Amazon,COBOL,64
+Amazon,Assembly,4
+Amazon,ABAP,6
+Amazon,Elixir,15
+Amazon,Scheme,4
+Amazon,PLpgSQL,18
+Amazon,CoffeeScript,2
+Amazon,Jinja,7
+Amazon,Markdown,1
+Amazon,Racket,3
+Amazon,Erlang,2
+Amazon,TypeScript,47095
+Amazon,C++,13281
+Amazon,Go,42389
+Amazon,Swift,782
+Amazon,Jupyter Notebook,1703
+Amazon,Perl,169
+Amazon,Kotlin,7076
+Amazon,CSS,547
+Amazon,Dart,3435
+Amazon,Makefile,930
+Amazon,Scala,77
+Amazon,Lua,30
+Amazon,Groovy,347
+Amazon,Vue,119
+Amazon,PowerShell,151
+Amazon,Jsonnet,2
+Amazon,Fluent,7
+IBM,C++,11920
+IBM,TeX,90
+IBM,YAML,459
+IBM,Groovy,3121
+IBM,Scala,728
+IBM,Rust,381
+IBM,C#,144
+IBM,SWIG,13
+IBM,Tcl,3
+IBM,PHP,79
+IBM,Handlebars,599
+IBM,Dart,23
+IBM,Batchfile,14
+IBM,Assembly,37
+IBM,SQLPL,17
+IBM,Standard ML,2
+IBM,SystemVerilog,2
+IBM,Logos,6
+IBM,OCaml,1
+IBM,TypeScript,6768
+IBM,REXX,176
+IBM,Java,26692
+IBM,Coq,981
+IBM,Erlang,146
+IBM,Vim script,12
+IBM,Vue,1106
+IBM,COBOL,531
+IBM,XSLT,41
+IBM,Swift,102
+IBM,PowerShell,30
+IBM,Kotlin,391
+IBM,PLpgSQL,1
+IBM,Puppet,2
+IBM,RPGLE,19
+IBM,Starlark,11
+IBM,HTML,3563
+IBM,Shell,12592
+IBM,Verilog,98
+IBM,OpenQASM,347
+IBM,Jsonnet,114
+IBM,HCL,2691
+IBM,Dockerfile,696
+IBM,Jinja,2738
+IBM,GDScript,1
+IBM,Lua,14
+IBM,CMake,4
+IBM,EJS,13
+IBM,R,3
+IBM,BitBake,3
+IBM,Rich Text Format,1
+IBM,VHDL,1
+IBM,Python,22635
+IBM,CSS,251
+IBM,Jupyter Notebook,3429
+IBM,Go,27685
+IBM,JavaScript,11779
+IBM,C,18625
+IBM,Makefile,2242
+IBM,SCSS,371
+IBM,Ruby,1994
+IBM,Smarty,191
+IBM,Perl,113
+IBM,RobotFramework,322
+IBM,Meson,41
+IBM,Mustache,43
+IBM,Haskell,32
+IBM,Gherkin,10
+IBM,Sass,2
+IBM,Fortran,1
+IBM,Roff,1
+Oracle,C++,8852
+Oracle,HTML,4177
+Oracle,TypeScript,809
+Oracle,PostScript,17
+Oracle,Scala,262
+Oracle,Shell,1078
+Oracle,JavaScript,3474
+Oracle,C#,255
+Oracle,Groovy,66
+Oracle,PHP,46
+Oracle,Emacs Lisp,4
+Oracle,Agda,1
+Oracle,Haskell,2
+Oracle,Standard ML,8
+Oracle,M4,1
+Oracle,Clojure,1
+Oracle,Ruby,2826
+Oracle,Python,7609
+Oracle,Jupyter Notebook,802
+Oracle,Go,13462
+Oracle,Batchfile,9
+Oracle,Dockerfile,30
+Oracle,PLSQL,14
+Oracle,PowerShell,6
+Oracle,R,2
+Oracle,Java,42040
+Oracle,C,9434
+Oracle,HCL,1834
+Oracle,Roff,21
+Oracle,CSS,29
+Oracle,SCSS,5
+Oracle,Forth,3
+Oracle,Lua,26
+Oracle,Kotlin,6
+Oracle,ANTLR,23
+Oracle,Jinja,13
+Oracle,Rust,9
+Oracle,Astro,1
+Oracle,Makefile,16
+Oracle,Swift,20
+Oracle,XSLT,5
+Oracle,Dart,10
+Oracle,Jsonnet,8
+Oracle,Perl,8
+Oracle,Objective-C,1
+VMware,Go,46726
+VMware,C,10979
+VMware,Java,40707
+VMware,TypeScript,4098
+VMware,Lua,16
+VMware,YAML,116
+VMware,PHP,3
+VMware,Swift,91
+VMware,Rich Text Format,7
+VMware,Emacs Lisp,4
+VMware,Objective-C,6
+VMware,Roff,3
+VMware,Scheme,1
+VMware,Gherkin,3
+VMware,Python,23039
+VMware,C++,1527
+VMware,Erlang,147
+VMware,SCSS,152
+VMware,HTML,6830
+VMware,Shell,36566
+VMware,Mustache,18700
+VMware,PLpgSQL,329
+VMware,Kotlin,111
+VMware,CSS,454
+VMware,Smarty,110
+VMware,SaltStack,94
+VMware,PowerShell,607
+VMware,HCL,512
+VMware,Smalltalk,127
+VMware,Haskell,1
+VMware,Jupyter Notebook,29
+VMware,JavaScript,966
+VMware,Makefile,135
+VMware,C#,159
+VMware,Dockerfile,150
+VMware,TeX,68
+VMware,Vim Script,42
+VMware,Vim script,4
+VMware,Bicep,2
+VMware,Rust,1634
+VMware,Ruby,2372
+VMware,Jsonnet,19
+VMware,Starlark,5583
+VMware,Dafny,226
+VMware,Perl,20
+VMware,OCaml,10
+VMware,R,9
+VMware,Groovy,32
+VMware,Nix,1
+VMware,PureBasic,1
+SAP,Cython,110
+SAP,JavaScript,32895
+SAP,Nix,243
+SAP,HTML,892
+SAP,Rust,963
+SAP,Starlark,14
+SAP,XSLT,265
+SAP,TSQL,12
+SAP,Perl,2
+SAP,Vim Script,16
+SAP,Stylus,3
+SAP,TypeScript,14012
+SAP,ABNF,102
+SAP,Vue,20
+SAP,CAP CDS,140
+SAP,Lua,20
+SAP,PowerShell,8
+SAP,PHP,41
+SAP,Svelte,7
+SAP,Less,16
+SAP,Vim script,4
+SAP,SMT,1
+SAP,Java,6364
+SAP,Go,36953
+SAP,C++,403
+SAP,Shell,1153
+SAP,Markdown,28
+SAP,ABAP,507
+SAP,Jupyter Notebook,84
+SAP,Swift,439
+SAP,Mustache,36
+SAP,Ruby,1010
+SAP,CSS,444
+SAP,Kotlin,442
+SAP,Jinja,4
+SAP,Jsonnet,5
+SAP,Haskell,1
+SAP,Python,5576
+SAP,Dart,247
+SAP,C,158
+SAP,Nunjucks,85
+SAP,Smarty,4367
+SAP,Makefile,123
+SAP,C#,215
+SAP,Dockerfile,26
+SAP,SCSS,50
+SAP,Scala,3
+SAP,HCL,1
+GitHub,JavaScript,248324
+GitHub,Python,928255
+GitHub,Shell,55537
+GitHub,Perl,1587
+GitHub,Kotlin,25542
+GitHub,Scala,3630
+GitHub,Nix,16211
+GitHub,Jupyter Notebook,14896
+GitHub,Smarty,23056
+GitHub,CSS,31389
+GitHub,Pascal,153
+GitHub,Mathematica,46
+GitHub,Nim,18
+GitHub,Fortran,755
+GitHub,Svelte,16130
+GitHub,XSLT,267
+GitHub,Apex,1322
+GitHub,Rich Text Format,98
+GitHub,Batchfile,726
+GitHub,Nunjucks,68
+GitHub,Liquid,789
+GitHub,CUE,135
+GitHub,Less,38
+GitHub,BitBake,9
+GitHub,reStructuredText,16
+GitHub,GDScript,30
+GitHub,PureScript,32
+GitHub,Assembly,6
+GitHub,Nextflow,9
+GitHub,Open Policy Agent,1
+GitHub,Squirrel,4
+GitHub,C,8005
+GitHub,Ruby,11500
+GitHub,Groovy,178
+GitHub,Dockerfile,36873
+GitHub,CodeQL,14396
+GitHub,D,7
+GitHub,Ada,2
+GitHub,PHP,27326
+GitHub,PLpgSQL,346
+GitHub,Emacs Lisp,6624
+GitHub,Cython,62
+GitHub,OCaml,17
+GitHub,MATLAB,202
+GitHub,Mustache,3690
+GitHub,TeX,16739
+GitHub,Vim script,461
+GitHub,Smalltalk,236
+GitHub,F#,79
+GitHub,EJS,33839
+GitHub,Makefile,6789
+GitHub,Elixir,958
+GitHub,Elm,50
+GitHub,mcfunction,25
+GitHub,Dafny,281
+GitHub,Solidity,28
+GitHub,Jinja,6937
+GitHub,Tcl,987
+GitHub,Stylus,22
+GitHub,Julia,465
+GitHub,Objective-C,59
+GitHub,Lean,101
+GitHub,CMake,139
+GitHub,Verilog,65
+GitHub,Xtend,11
+GitHub,Vim Snippet,5
+GitHub,Hack,16
+GitHub,CoffeeScript,9
+GitHub,Crystal,23
+GitHub,ANTLR,2
+GitHub,Inno Setup,1
+GitHub,sed,1
+GitHub,QML,3
+GitHub,Stata,4
+GitHub,Go,57397
+GitHub,TypeScript,522708
+GitHub,Rust,16831
+GitHub,Lua,1516
+GitHub,Swift,1579
+GitHub,DM,56924
+GitHub,Clojure,764
+GitHub,PowerShell,14295
+GitHub,DIGITAL Command Language,118555
+GitHub,HCL,3675
+GitHub,Adblock Filter List,283
+GitHub,Erlang,261
+GitHub,Blade,596
+GitHub,Scheme,6976
+GitHub,Astro,381
+GitHub,Handlebars,4
+GitHub,Cuda,293
+GitHub,Slim,93
+GitHub,Berry,66
+GitHub,RMarkdown,19
+GitHub,MoonScript,16
+GitHub,Raku,16
+GitHub,Common Lisp,56
+GitHub,Jsonnet,8
+GitHub,Idris,16
+GitHub,Java,21983
+GitHub,R,72374
+GitHub,HTML,174829
+GitHub,C++,14211
+GitHub,APL,94
+GitHub,C#,20769
+GitHub,Vue,15627
+GitHub,Sass,607
+GitHub,SCSS,7727
+GitHub,SourcePawn,188
+GitHub,Dart,3973
+GitHub,Bicep,30
+GitHub,Haskell,636
+GitHub,Roff,118747
+GitHub,Markdown,293
+GitHub,AGS Script,210
+GitHub,Zig,69
+GitHub,SaltStack,54
+GitHub,Haxe,26
+GitHub,OpenSCAD,191
+GitHub,Vala,19
+GitHub,Starlark,10719
+GitHub,YAML,584
+GitHub,PostScript,955
+GitHub,JSON,7
+GitHub,Vim Script,1
+NVidia,C,22231
+NVidia,Go,4692
+NVidia,HTML,4461
+NVidia,Scala,2856
+NVidia,Lua,15
+NVidia,Ruby,16
+NVidia,HLSL,29
+NVidia,HCL,16
+NVidia,RAML,15
+NVidia,Vim script,3
+NVidia,SCSS,4
+NVidia,MLIR,1
+NVidia,Cuda,7378
+NVidia,JavaScript,8020
+NVidia,Shell,2052
+NVidia,TeX,60
+NVidia,C#,339
+NVidia,Logos,7
+NVidia,P4,2
+NVidia,Batchfile,9
+NVidia,PowerShell,17
+NVidia,Starlark,23
+NVidia,Fortran,6
+NVidia,Groovy,1
+NVidia,Perl,2
+NVidia,PureBasic,1
+NVidia,C++,23325
+NVidia,Python,26064
+NVidia,Haskell,66
+NVidia,Java,182
+NVidia,CMake,292
+NVidia,Cython,9
+NVidia,GLSL,6
+NVidia,Jupyter Notebook,5457
+NVidia,BitBake,38
+NVidia,Rust,26
+NVidia,Dockerfile,102
+NVidia,TypeScript,117
+NVidia,Makefile,43
+NVidia,Scheme,4
+NVidia,Nix,3
+NVidia,Jinja,2
+Huawei,Shell,274
+Huawei,PHP,56
+Huawei,BitBake,4
+Huawei,Perl,2
+Huawei,Objective-C,2
+Huawei,Fortran,1
+Huawei,Rich Text Format,1
+Huawei,HTML,1459
+Huawei,Python,6122
+Huawei,CSS,103
+Huawei,Jupyter Notebook,1168
+Huawei,Dockerfile,28
+Huawei,CMake,34
+Huawei,Jinja,2
+Huawei,Emacs Lisp,1
+Huawei,Rust,1859
+Huawei,TypeScript,78
+Huawei,OCaml,36
+Huawei,Ruby,26
+Huawei,Kotlin,32
+Huawei,Dart,3
+Huawei,D,2
+Huawei,C,22246
+Huawei,C++,9755
+Huawei,Go,6379
+Huawei,Java,909
+Huawei,Nix,7
+Huawei,JavaScript,154
+Huawei,Vue,49
+Huawei,C#,61
+Huawei,Makefile,8
+Huawei,Less,5
+Huawei,NASL,1
+Huawei,Cuda,2
+Huawei,WebAssembly,1
+Huawei,Assembly,1
+SUSE,C,33922
+SUSE,Python,29792
+SUSE,Go,34408
+SUSE,JavaScript,3971
+SUSE,Java,8745
+SUSE,SCSS,4720
+SUSE,Mustache,156
+SUSE,Swift,76
+SUSE,Jinja,82
+SUSE,Vim script,41
+SUSE,Scheme,1
+SUSE,Ruby,7359
+SUSE,Handlebars,61
+SUSE,TypeScript,6225
+SUSE,Perl,2240
+SUSE,XSLT,238
+SUSE,HTML,974
+SUSE,Makefile,255
+SUSE,Dockerfile,249
+SUSE,Smarty,1828
+SUSE,Emacs Lisp,56
+SUSE,Lua,38
+SUSE,Roff,2
+SUSE,Rich Text Format,3
+SUSE,TeX,1
+SUSE,Jupyter Notebook,4
+SUSE,Nim,2
+SUSE,SWIG,2
+SUSE,Nix,2
+SUSE,Elixir,5324
+SUSE,CSS,410
+SUSE,SaltStack,574
+SUSE,Assembly,5
+SUSE,Open Policy Agent,30
+SUSE,PHP,16
+SUSE,PowerShell,6
+SUSE,C++,3238
+SUSE,Shell,7075
+SUSE,Rust,2557
+SUSE,HCL,2846
+SUSE,Vue,2775
+SUSE,GDScript,112
+SUSE,Haskell,202
+AMD,C++,18822
+AMD,Python,2685
+AMD,HTML,129
+AMD,Java,1731
+AMD,Jupyter Notebook,31
+AMD,CMake,93
+AMD,Assembly,1721
+AMD,Ruby,42
+AMD,Emacs Lisp,2
+AMD,Rust,874
+AMD,BitBake,88
+AMD,TeX,10
+AMD,SystemVerilog,23
+AMD,Logos,2
+AMD,PowerShell,1
+AMD,C,11706
+AMD,Fortran,1041
+AMD,Makefile,67
+AMD,JavaScript,58
+AMD,Tcl,24
+AMD,C#,1
+AMD,SCSS,1
+AMD,Nix,42
+AMD,Shell,367
+AMD,MLIR,20
+AMD,Verilog,26
+AMD,Cuda,21
+AMD,Go,47
+AMD,VBA,2
+AMD,Open Policy Agent,1
+Yandex,Go,1606
+Yandex,TypeScript,7805
+Yandex,Kotlin,218
+Yandex,Rust,57
+Yandex,TeX,130
+Yandex,Objective-C,47
+Yandex,Scala,9
+Yandex,MDX,6
+Yandex,Erlang,1
+Yandex,C++,11516
+Yandex,Makefile,81
+Yandex,CSS,8
+Yandex,Scheme,5
+Yandex,Vim Snippet,1
+Yandex,C,18637
+Yandex,Swift,1410
+Yandex,Python,1147
+Yandex,PHP,10
+Yandex,Dart,6
+Yandex,Vim script,11
+Yandex,Lua,4
+Yandex,Dockerfile,5
+Yandex,Shell,1054
+Yandex,JavaScript,1479
+Yandex,Java,562
+Yandex,Jupyter Notebook,86
+Yandex,C#,180
+Yandex,HTML,29
+Yandex,PowerShell,12
+Yandex,Haskell,25
+Yandex,Ruby,5
+Yandex,HCL,6
+Yandex,Nix,1
+Meta,C,8039
+Meta,Rust,3205
+Meta,Objective-C,16
+Meta,SCSS,90
+Meta,Swift,52
+Meta,Emacs Lisp,27
+Meta,PHP,43
+Meta,CSS,15
+Meta,Nix,1
+Meta,PowerShell,1
+Meta,Markdown,6
+Meta,XSLT,3
+Meta,C++,37477
+Meta,Jupyter Notebook,793
+Meta,OCaml,486
+Meta,Java,3012
+Meta,Haskell,484
+Meta,R,226
+Meta,Shell,575
+Meta,Erlang,102
+Meta,HTML,156
+Meta,VHDL,72
+Meta,CMake,17
+Meta,Vim script,25
+Meta,Hack,18
+Meta,Coq,1
+Meta,TypeScript,1690
+Meta,Ruby,121
+Meta,Boogie,201
+Meta,Makefile,75
+Meta,JavaScript,3902
+Meta,Bikeshed,7
+Meta,Go,307
+Meta,Lua,7
+Meta,Kotlin,11
+Meta,TeX,3
+Meta,AppleScript,1
+Meta,Roff,2
+Meta,Python,131422
+Meta,C#,25
+Datadog,XSLT,15
+Datadog,Ruby,6225
+Datadog,Jinja,162
+Datadog,Shell,1183
+Datadog,Smarty,13
+Datadog,Swift,2954
+Datadog,Starlark,27
+Datadog,TypeScript,7050
+Datadog,PHP,3599
+Datadog,Kotlin,1197
+Datadog,Vue,52
+Datadog,PowerShell,824
+Datadog,SCSS,8
+Datadog,Gherkin,1561
+Datadog,Open Policy Agent,37
+Datadog,Scala,4
+Datadog,HCL,2
+Datadog,Svelte,1
+Datadog,JavaScript,17847
+Datadog,Go,37154
+Datadog,Makefile,95
+Datadog,Jupyter Notebook,116
+Datadog,Clojure,3
+Datadog,C#,12587
+Datadog,Erlang,198
+Datadog,Dockerfile,27
+Datadog,Vim Script,6
+Datadog,Java,9822
+Datadog,Python,24811
+Datadog,HTML,4963
+Datadog,C++,2323
+Datadog,Rust,4092
+Datadog,C,188
+Datadog,Mustache,989
+Datadog,Dart,601
+Datadog,Lua,1
+Adobe,TypeScript,3087
+Adobe,Mustache,21
+Adobe,C,523
+Adobe,SCSS,16206
+Adobe,MATLAB,63
+Adobe,Dart,59
+Adobe,Emacs Lisp,14
+Adobe,Lua,7
+Adobe,QML,6
+Adobe,Jupyter Notebook,4
+Adobe,Vue,1
+Adobe,JavaScript,23135
+Adobe,C++,380
+Adobe,Go,478
+Adobe,CSS,2274
+Adobe,PHP,17584
+Adobe,Shell,253
+Adobe,C#,8
+Adobe,NSIS,3
+Adobe,PowerShell,2
+Adobe,Handlebars,9
+Adobe,Objective-C,18
+Adobe,Rust,714
+Adobe,Nunjucks,7
+Adobe,Ruby,142
+Adobe,HTML,9922
+Adobe,Rich Text Format,18743
+Adobe,Smarty,27
+Adobe,Vim Script,10
+Adobe,Perl,3
+Adobe,Makefile,8
+Adobe,R,2
+Adobe,Elixir,1
+Adobe,Java,4338
+Adobe,Swift,1107
+Adobe,Python,953
+Adobe,Groovy,8628
+Adobe,Roff,1984
+Adobe,HCL,16
+Adobe,Org,9
+JetBrains,Shell,19
+JetBrains,C#,2335
+JetBrains,JetBrains MPS,308
+JetBrains,TypeScript,1188
+JetBrains,C++,322
+JetBrains,Python,255
+JetBrains,Scala,4081
+JetBrains,HTML,231
+JetBrains,HCL,17
+JetBrains,CSS,1
+JetBrains,Dockerfile,1
+JetBrains,Kotlin,16990
+JetBrains,Go,127
+JetBrains,PHP,35
+JetBrains,TeX,5
+JetBrains,Vue,1
+JetBrains,Dart,2
+JetBrains,WebAssembly,2
+JetBrains,Java,8377
+JetBrains,JavaScript,8711
+JetBrains,Batchfile,10
+JetBrains,Jupyter Notebook,22
+JetBrains,C,19
+JetBrains,GDScript,17
+JetBrains,SCSS,10
+JetBrains,Groovy,16
+JetBrains,Rust,22
+JetBrains,Swift,2
+JetBrains,OCaml,1
+JetBrains,Objective-C++,21
+JetBrains,F#,1634
+JetBrains,ANTLR,8
+JetBrains,Ruby,5
+Liferay,Java,148461
+Liferay,TypeScript,72
+Liferay,PHP,1
+Liferay,JavaScript,555
+Liferay,HTML,21
+Liferay,CSS,5
+Liferay,Groovy,62
+Liferay,Dockerfile,31
+Liferay,TeX,1
+Liferay,C++,1
+Liferay,Vala,4
+Liferay,HCL,1
+Liferay,SCSS,441
+Liferay,Shell,1566
+Liferay,Go,112
+Liferay,Python,373
+Liferay,FreeMarker,2
+ARM,LLVM,80
+ARM,Rust,1800
+ARM,BitBake,1713
+ARM,TeX,96
+ARM,Standard ML,5
+ARM,CSS,73
+ARM,Assembly,1
+ARM,Python,3780
+ARM,Shell,663
+ARM,PostScript,116
+ARM,Groovy,39
+ARM,Makefile,474
+ARM,JavaScript,652
+ARM,CMake,22
+ARM,Fortran,2
+ARM,GLSL,1
+ARM,Ruby,1
+ARM,C++,5051
+ARM,C,22666
+ARM,Common Lisp,85
+ARM,Perl,21
+ARM,NASL,52
+ARM,Logos,12
+ARM,Scala,2
+ARM,Emacs Lisp,1
+ARM,Starlark,1
+ARM,Java,130
+ARM,Go,5439
+ARM,TypeScript,288
+ARM,C#,96
+ARM,Jupyter Notebook,4704
+ARM,OCaml,1208
+ARM,HTML,37
+ARM,Rich Text Format,1
+Odoo,Shell,153
+Odoo,HTML,17
+Odoo,Go,1
+Odoo,Rust,1
+Odoo,JavaScript,106369
+Odoo,TypeScript,6977
+Odoo,Kotlin,1
+Odoo,Python,1501
+Odoo,Dockerfile,71
+Odoo,Gettext Catalog,15
+Odoo,Assembly,2
+EPAM Systems,TypeScript,6242
+EPAM Systems,C,996
+EPAM Systems,HTML,231
+EPAM Systems,PLpgSQL,70
+EPAM Systems,BitBake,628
+EPAM Systems,Mustache,67
+EPAM Systems,HCL,88
+EPAM Systems,Rust,26
+EPAM Systems,CSS,50
+EPAM Systems,EJS,2
+EPAM Systems,Markdown,1
+EPAM Systems,CMake,4
+EPAM Systems,ASL,5
+EPAM Systems,Svelte,1
+EPAM Systems,Java,16826
+EPAM Systems,Kotlin,2823
+EPAM Systems,Go,2032
+EPAM Systems,Smarty,557
+EPAM Systems,mIRC Script,77
+EPAM Systems,Dockerfile,133
+EPAM Systems,Ruby,34
+EPAM Systems,RAML,5
+EPAM Systems,Jupyter Notebook,11
+EPAM Systems,Swift,24
+EPAM Systems,Lua,13
+EPAM Systems,PHP,230
+EPAM Systems,Shell,989
+EPAM Systems,C#,197
+EPAM Systems,Scala,14
+EPAM Systems,Dart,134
+EPAM Systems,JavaScript,11323
+EPAM Systems,C++,862
+EPAM Systems,Python,4363
+EPAM Systems,Jinja,257
+EPAM Systems,Gherkin,536
+EPAM Systems,Groovy,211
+EPAM Systems,G-code,2
+Elastic,Python,5131
+Elastic,JavaScript,3452
+Elastic,Shell,28
+Elastic,PHP,80
+Elastic,HTML,9
+Elastic,Haskell,2
+Elastic,Go,11282
+Elastic,Ruby,976
+Elastic,Java,17107
+Elastic,C++,640
+Elastic,Handlebars,3822
+Elastic,Swift,164
+Elastic,Groovy,257
+Elastic,HCL,12
+Elastic,TypeScript,45078
+Elastic,Open Policy Agent,116
+Elastic,CSS,2
+Elastic,YARA,5
+Elastic,Gherkin,60
+Elastic,SCSS,52
+Elastic,Scala,77
+Elastic,C,101
+Elastic,C#,323
+Elastic,Smarty,18
+Elastic,Rust,8
+Elastic,Dockerfile,10
+Elastic,PowerShell,3
+Mozilla,TypeScript,4491
+Mozilla,Markdown,37
+Mozilla,Python,25502
+Mozilla,Perl,236
+Mozilla,Fluent,7182
+Mozilla,Swift,4895
+Mozilla,Assembly,162
+Mozilla,LookML,900
+Mozilla,TeX,9
+Mozilla,Emacs Lisp,1
+Mozilla,JavaScript,8617
+Mozilla,Rust,5833
+Mozilla,Kotlin,2764
+Mozilla,HTML,1485
+Mozilla,Shell,606
+Mozilla,Elixir,33
+Mozilla,PowerShell,383
+Mozilla,PHP,143
+Mozilla,Puppet,140
+Mozilla,Go,86
+Mozilla,Bikeshed,20
+Mozilla,Sage,2
+Mozilla,Vue,1
+Mozilla,C,251
+Mozilla,Jupyter Notebook,21
+Mozilla,Java,139
+Mozilla,Ruby,80
+Mozilla,Svelte,134
+Mozilla,Dockerfile,9
+Mozilla,SCSS,2
+Mozilla,Lua,11
+Mozilla,JSON,9
+Mozilla,WebAssembly,1
+Mozilla,CSS,1
+Mozilla,Mustache,1
+Mozilla,C++,2330
+Mozilla,HCL,47
+Mozilla,Nix,19
+Mozilla,Makefile,4
+Cisco Systems,RobotFramework,302
+Cisco Systems,Go,6915
+Cisco Systems,Ruby,150
+Cisco Systems,C++,1219
+Cisco Systems,Python,4511
+Cisco Systems,Lua,133
+Cisco Systems,CSS,234
+Cisco Systems,PowerShell,349
+Cisco Systems,Makefile,266
+Cisco Systems,Dockerfile,16
+Cisco Systems,Nunjucks,1
+Cisco Systems,C,2494
+Cisco Systems,Java,431
+Cisco Systems,HTML,1285
+Cisco Systems,Swift,152
+Cisco Systems,Jinja,93
+Cisco Systems,Rust,165
+Cisco Systems,Mustache,33
+Cisco Systems,CMake,6
+Cisco Systems,SCSS,600
+Cisco Systems,JavaScript,2856
+Cisco Systems,TypeScript,597
+Cisco Systems,Jupyter Notebook,15
+Cisco Systems,HCL,1011
+Cisco Systems,C#,30
+Cisco Systems,Vim script,3
+Cisco Systems,BitBake,12
+Cisco Systems,Objective-C,1
+Cisco Systems,Smarty,2
+Cisco Systems,Rich Text Format,1
+Cisco Systems,Erlang,235
+Cisco Systems,Clojure,883
+Cisco Systems,Emacs Lisp,4
+Cisco Systems,Shell,138
+Cisco Systems,Scala,34
+Cisco Systems,Kotlin,23
+Cisco Systems,Haskell,48
+Cisco Systems,Vue,64
+Cisco Systems,Perl,1
+Tencent,C++,6301
+Tencent,Go,5098
+Tencent,Vim script,26
+Tencent,Shell,44
+Tencent,Roff,10
+Tencent,Scala,8
+Tencent,CSS,18
+Tencent,CMake,1
+Tencent,Jupyter Notebook,11
+Tencent,MAXScript,1
+Tencent,JavaScript,2346
+Tencent,HTML,421
+Tencent,Python,3238
+Tencent,Groovy,2
+Tencent,Swift,28
+Tencent,Lua,41
+Tencent,Mako,2
+Tencent,Handlebars,5
+Tencent,Vim Snippet,1
+Tencent,HCL,2
+Tencent,Stylus,1
+Tencent,Mustache,21
+Tencent,Objective-C,522
+Tencent,Vue,664
+Tencent,Rust,552
+Tencent,Less,17
+Tencent,GLSL,13
+Tencent,EJS,10
+Tencent,Vim Script,3
+Tencent,TypeScript,2192
+Tencent,Java,3214
+Tencent,Emacs Lisp,244
+Tencent,C,2182
+Tencent,Kotlin,4358
+Tencent,SCSS,187
+Tencent,PHP,52965
+Tencent,Ruby,476
+Tencent,Dart,547
+Tencent,C#,636
+Tencent,Dockerfile,28
+Tencent,Cuda,10
+Alibaba,C,1160
+Alibaba,Java,11301
+Alibaba,Scala,606
+Alibaba,Dart,116
+Alibaba,Swift,62
+Alibaba,Lua,5
+Alibaba,CSS,72
+Alibaba,Starlark,16
+Alibaba,Stylus,1
+Alibaba,PEG.js,1
+Alibaba,C++,6637
+Alibaba,Kotlin,3
+Alibaba,Makefile,78
+Alibaba,Rust,1531
+Alibaba,Coq,30
+Alibaba,Cuda,6
+Alibaba,HCL,35
+Alibaba,Elixir,14
+Alibaba,Emacs Lisp,2
+Alibaba,TeX,4
+Alibaba,TypeScript,2098
+Alibaba,Python,5462
+Alibaba,JavaScript,987
+Alibaba,HTML,539
+Alibaba,Mustache,53
+Alibaba,PHP,37
+Alibaba,Objective-C,67
+Alibaba,Groovy,28
+Alibaba,SCSS,13
+Alibaba,Sass,2
+Alibaba,Go,10663
+Alibaba,Shell,496
+Alibaba,Vim script,24
+Alibaba,C#,60
+Alibaba,Vue,23
+Alibaba,OCaml,22
+Alibaba,Less,13
+Alibaba,Ruby,8
+Alibaba,Dockerfile,1
+Alibaba,Rich Text Format,1
+Alibaba,Clojure,1
+Alibaba,Jupyter Notebook,1
+Canonical,C++,3488
+Canonical,HTML,2143
+Canonical,Ruby,13
+Canonical,Perl,16
+Canonical,Rust,60
+Canonical,CMake,7
+Canonical,M4,23
+Canonical,Makefile,4
+Canonical,Java,34
+Canonical,Vala,6
+Canonical,CSS,11
+Canonical,XSLT,4
+Canonical,HCL,1
+Canonical,C,4073
+Canonical,Go,21872
+Canonical,Python,38882
+Canonical,Dart,1862
+Canonical,YAML,43
+Canonical,JavaScript,634
+Canonical,Clojure,94
+Canonical,Dockerfile,69
+Canonical,PostScript,5
+Canonical,Nix,3
+Canonical,C#,2
+Canonical,Lua,4
+Canonical,TypeScript,664
+Canonical,Shell,2182
+Canonical,TeX,2
+Canonical,Jinja,191
+Canonical,Jsonnet,29
+Canonical,Emacs Lisp,12
+Canonical,Zig,1
+Canonical,Mustache,3
+Canonical,Jupyter Notebook,43
+Canonical,Vim Script,8
+Canonical,SCSS,1
+Canonical,D,1
+Canonical,Common Lisp,1
+mongoDB,Ruby,710
+mongoDB,Python,1105
+mongoDB,C,6421
+mongoDB,Go,10382
+mongoDB,Dart,81
+mongoDB,Emacs Lisp,26
+mongoDB,C#,343
+mongoDB,Shell,17
+mongoDB,Starlark,2
+mongoDB,Lua,2
+mongoDB,C++,18569
+mongoDB,TypeScript,9545
+mongoDB,Objective-C,100
+mongoDB,PHP,47
+mongoDB,CSS,7
+mongoDB,JavaScript,977
+mongoDB,Java,1308
+mongoDB,Rust,641
+mongoDB,Kotlin,1513
+mongoDB,Dockerfile,56
+mongoDB,Swift,28
+mongoDB,PowerShell,8
+mongoDB,Nunjucks,15
+mongoDB,HTML,5
+Apple,Java,5416
+Apple,Scala,833
+Apple,CMake,172
+Apple,Swift,9749
+Apple,Rust,114
+Apple,TypeScript,666
+Apple,Groovy,8
+Apple,Assembly,28
+Apple,Haskell,6
+Apple,C,589
+Apple,Shell,364
+Apple,Python,1071
+Apple,ZAP,62
+Apple,JavaScript,1464
+Apple,Makefile,373
+Apple,SCSS,587
+Apple,Vim Script,2
+Apple,Logos,9
+Apple,Sass,1
+Apple,C++,25701
+Apple,Go,1156
+Apple,Lua,11
+Apple,Starlark,309
+Apple,C#,37
+Apple,Objective-C,13
+Apple,TeX,24
+Apple,CSS,98
+Apple,JSON,14
+Apple,PowerShell,1
+Apple,HTML,787
+Apple,Markdown,1298
+Apple,Dockerfile,19
+Apple,Jupyter Notebook,19
+Apple,Jsonnet,4
+Apple,Bikeshed,3
+Apple,Sage,10
+Apple,Kotlin,1
+Apple,Nix,2
+Shopify,Liquid,1705
+Shopify,C,582
+Shopify,Rust,584
+Shopify,Jupyter Notebook,6
+Shopify,Vue,1
+Shopify,Go,642
+Shopify,TypeScript,15907
+Shopify,Lua,46
+Shopify,C++,43
+Shopify,CSS,9
+Shopify,PHP,10
+Shopify,HTML,10
+Shopify,C#,1
+Shopify,Nix,1
+Shopify,JavaScript,343
+Shopify,SCSS,27
+Shopify,Emacs Lisp,16
+Shopify,Python,41
+Shopify,Vim script,37
+Shopify,Scheme,8
+Shopify,Swift,46
+Shopify,Ruby,6568
+Shopify,Shell,248
+Shopify,Java,38
+Shopify,Vim Script,12
+Shopify,Nim,1
+HashiCorp,Python,210
+HashiCorp,C#,213
+HashiCorp,HTML,804
+HashiCorp,HCL,1296
+HashiCorp,Nix,1
+HashiCorp,Makefile,776
+HashiCorp,Shell,725
+HashiCorp,Vim script,6
+HashiCorp,Rust,1
+HashiCorp,C,1
+HashiCorp,Go,58506
+HashiCorp,TypeScript,13843
+HashiCorp,Ruby,655
+HashiCorp,JavaScript,2400
+HashiCorp,Java,1
+HashiCorp,Smarty,53
+HashiCorp,Dockerfile,21
+Samsung,C,8717
+Samsung,Shell,167
+Samsung,Jinja,79
+Samsung,Dart,229
+Samsung,Lua,40
+Samsung,Haskell,1
+Samsung,WebAssembly,1
+Samsung,C#,2705
+Samsung,Ruby,58
+Samsung,HTML,147
+Samsung,Smarty,24
+Samsung,Batchfile,6
+Samsung,Cuda,1
+Samsung,C++,8427
+Samsung,Rust,1149
+Samsung,JavaScript,105
+Samsung,Go,114
+Samsung,CSS,15
+Samsung,Cython,3
+Samsung,TeX,1
+Samsung,BitBake,1
+Samsung,Dockerfile,3
+Samsung,Java,1077
+Samsung,Python,909
+Samsung,TypeScript,214
+Samsung,Makefile,46
+Samsung,SCSS,5
+Samsung,Kotlin,40
+Samsung,LLVM,1
+Salesforce,Scala,403
+Salesforce,TypeScript,14289
+Salesforce,Shell,962
+Salesforce,Swift,288
+Salesforce,Groovy,28
+Salesforce,Kotlin,69
+Salesforce,HTML,50
+Salesforce,Vim script,5
+Salesforce,HCL,2
+Salesforce,JavaScript,10344
+Salesforce,Java,3689
+Salesforce,C++,128
+Salesforce,RAML,222
+Salesforce,Starlark,33
+Salesforce,Objective-C,609
+Salesforce,Jupyter Notebook,13
+Salesforce,CSS,8
+Salesforce,Go,476
+Salesforce,Makefile,31
+Salesforce,Emacs Lisp,19
+Salesforce,SCSS,147
+Salesforce,Ruby,572
+Salesforce,DataWeave,5
+Salesforce,RobotFramework,21
+Salesforce,C,12
+Salesforce,Vim Script,10
+Salesforce,Lua,7
+Salesforce,Python,1794
+Salesforce,Rust,499
+Salesforce,Apex,714
+Salesforce,Dockerfile,2
+Hewlett Packard Enterprise,Python,23424
+Hewlett Packard Enterprise,Go,4800
+Hewlett Packard Enterprise,JavaScript,745
+Hewlett Packard Enterprise,C++,655
+Hewlett Packard Enterprise,Fortran,92
+Hewlett Packard Enterprise,Smarty,125
+Hewlett Packard Enterprise,Dockerfile,625
+Hewlett Packard Enterprise,Mustache,76
+Hewlett Packard Enterprise,Rust,14
+Hewlett Packard Enterprise,PowerShell,53
+Hewlett Packard Enterprise,XSLT,10
+Hewlett Packard Enterprise,Eiffel,6
+Hewlett Packard Enterprise,CSS,19
+Hewlett Packard Enterprise,Open Policy Agent,1
+Hewlett Packard Enterprise,Objective-C,6
+Hewlett Packard Enterprise,Elixir,2
+Hewlett Packard Enterprise,SCSS,2
+Hewlett Packard Enterprise,Chapel,5720
+Hewlett Packard Enterprise,Makefile,556
+Hewlett Packard Enterprise,VHDL,3
+Hewlett Packard Enterprise,Ruby,6
+Hewlett Packard Enterprise,Cuda,2
+Hewlett Packard Enterprise,C,1602
+Hewlett Packard Enterprise,Shell,5712
+Hewlett Packard Enterprise,TypeScript,178
+Hewlett Packard Enterprise,HTML,1692
+Hewlett Packard Enterprise,Jinja,3
+Hewlett Packard Enterprise,Nim,14
+Hewlett Packard Enterprise,RobotFramework,3
+Hewlett Packard Enterprise,Java,92
+Hewlett Packard Enterprise,C#,20
+Hewlett Packard Enterprise,Jupyter Notebook,23
+Automattic,PHP,22140
+Automattic,JavaScript,13228
+Automattic,Gherkin,64
+Automattic,Java,581
+Automattic,Kotlin,6816
+Automattic,Objective-C,12
+Automattic,CSS,238
+Automattic,Python,65
+Automattic,Objective-C++,1681
+Automattic,Swift,8834
+Automattic,TypeScript,3378
+Automattic,C++,10
+Automattic,Ruby,362
+Automattic,HTML,98
+Automattic,Shell,40
+Automattic,Vue,2
+Automattic,Go,3
+Nordic Semiconductor,Python,380
+Nordic Semiconductor,TypeScript,2511
+Nordic Semiconductor,CMake,3
+Nordic Semiconductor,SystemVerilog,8
+Nordic Semiconductor,Makefile,1
+Nordic Semiconductor,C,44862
+Nordic Semiconductor,Swift,922
+Nordic Semiconductor,Dockerfile,7
+Nordic Semiconductor,C++,1187
+Nordic Semiconductor,JavaScript,996
+Nordic Semiconductor,Rust,288
+Nordic Semiconductor,Vim script,23
+Nordic Semiconductor,Java,340
+Nordic Semiconductor,Kotlin,349
+Nordic Semiconductor,BitBake,2
+Bosch,Kotlin,2142
+Bosch,Rich Text Format,24
+Bosch,SCSS,97
+Bosch,HCL,5
+Bosch,Vue,7
+Bosch,Dart,1
+Bosch,C,364
+Bosch,HTML,405
+Bosch,Gnuplot,15
+Bosch,Go,849
+Bosch,Jupyter Notebook,164
+Bosch,Rust,79
+Bosch,TeX,7
+Bosch,Groovy,2
+Bosch,MATLAB,2
+Bosch,Emacs Lisp,1
+Bosch,C++,2760
+Bosch,JavaScript,220
+Bosch,Lua,54
+Bosch,TypeScript,573
+Bosch,BitBake,513
+Bosch,PowerShell,85
+Bosch,CSS,89
+Bosch,Dockerfile,1
+Bosch,Pascal,1
+Bosch,Python,5148
+Bosch,Java,2913
+Bosch,C#,233
+Bosch,Shell,1257
+Bosch,Scala,42
+Bosch,Mustache,70
+Bosch,Makefile,193
+Bosch,Smarty,51
+Bosch,Ruby,19
+Bosch,Julia,1
+Bosch,PureBasic,6
+Bosch,F#,1
+Bosch,CMake,1
+Bosch,PHP,1
+Grafana Labs,HTML,23
+Grafana Labs,Rust,63
+Grafana Labs,Python,3545
+Grafana Labs,Nix,50
+Grafana Labs,Mustache,1
+Grafana Labs,Go,19111
+Grafana Labs,TypeScript,19444
+Grafana Labs,Smarty,101
+Grafana Labs,Jsonnet,126
+Grafana Labs,Makefile,53
+Grafana Labs,Shell,86
+Grafana Labs,Erlang,80
+Grafana Labs,SCSS,6
+Grafana Labs,TeX,1
+Grafana Labs,Kotlin,12
+Grafana Labs,JavaScript,294
+Grafana Labs,C,4
+Grafana Labs,Ruby,26
+Grafana Labs,C#,1
+Grafana Labs,Apex,1
+Grafana Labs,Java,201
+Grafana Labs,Dockerfile,2
+Grafana Labs,Rich Text Format,1
+Grafana Labs,PHP,2
+Unity Technologies,C++,416
+Unity Technologies,Java,73
+Unity Technologies,JavaScript,277
+Unity Technologies,HTML,22
+Unity Technologies,Python,58
+Unity Technologies,Shell,74
+Unity Technologies,ShaderLab,58
+Unity Technologies,C,73
+Unity Technologies,Objective-C++,19
+Unity Technologies,Jupyter Notebook,3
+Unity Technologies,GLSL,5
+Unity Technologies,Go,62
+Unity Technologies,C#,10161
+Unity Technologies,Rust,19
+Unity Technologies,Vim script,5
+Unity Technologies,TypeScript,25
+Unity Technologies,Assembly,186
+Unity Technologies,DM,3
+Unity Technologies,Objective-C,7
+Unity Technologies,CSS,2
+Unity Technologies,Dart,3
+Espressif,JavaScript,127
+Espressif,Dockerfile,8
+Espressif,Rust,658
+Espressif,Assembly,22
+Espressif,Swift,65
+Espressif,PowerShell,5
+Espressif,Shell,438
+Espressif,Python,1157
+Espressif,C++,1689
+Espressif,TypeScript,320
+Espressif,Java,375
+Espressif,C,11765
+Baidu,TypeScript,2136
+Baidu,Python,4618
+Baidu,Vim script,19
+Baidu,Go,955
+Baidu,C,120
+Baidu,Rust,264
+Baidu,Swift,25
+Baidu,GLSL,11
+Baidu,Cuda,1
+Baidu,Mustache,10
+Baidu,Objective-C,269
+Baidu,Java,76
+Baidu,HTML,17
+Baidu,Kotlin,14
+Baidu,C++,6385
+Baidu,Jupyter Notebook,19
+Baidu,JavaScript,158
+Baidu,Shell,23
+Baidu,Scala,2146
+Baidu,CSS,10
+Baidu,Lua,1
+New Relic,Go,3581
+New Relic,Smarty,148
+New Relic,TypeScript,3276
+New Relic,Python,1149
+New Relic,Tcl,22
+New Relic,C++,32
+New Relic,Mustache,12
+New Relic,Elixir,25
+New Relic,Makefile,67
+New Relic,Jinja,12
+New Relic,PowerShell,7
+New Relic,Kotlin,1
+New Relic,Ruby,1293
+New Relic,Java,1097
+New Relic,Swift,5
+New Relic,CSS,5
+New Relic,JavaScript,12465
+New Relic,Shell,799
+New Relic,C,1030
+New Relic,Erlang,16
+New Relic,C#,501
+New Relic,Dockerfile,13
+New Relic,HTML,4
+New Relic,HCL,2
+QuickTrip,C#,316
+QuickTrip,Python,1284
+QuickTrip,Perl,128
+QuickTrip,QML,396
+QuickTrip,Ruby,20
+QuickTrip,CMake,53
+QuickTrip,BitBake,114
+QuickTrip,C,14
+QuickTrip,Markdown,11
+QuickTrip,YASnippet,2
+QuickTrip,Shell,603
+QuickTrip,C++,29225
+QuickTrip,Vim script,13
+QuickTrip,Java,33
+Cloudera,Python,916
+Cloudera,C++,696
+Cloudera,Shell,1454
+Cloudera,Jinja,206
+Cloudera,C,1
+Cloudera,Scala,245
+Cloudera,HCL,32
+Cloudera,Dockerfile,3
+Cloudera,Smarty,2
+Cloudera,PLpgSQL,76
+Cloudera,JavaScript,21
+Cloudera,Makefile,11
+Cloudera,HTML,9
+Cloudera,PowerShell,1
+Cloudera,Java,6907
+Cloudera,Go,590
+Cloudflare,CSS,5746
+Cloudflare,Python,28
+Cloudflare,YAML,7
+Cloudflare,Makefile,61
+Cloudflare,TypeScript,1664
+Cloudflare,C,444
+Cloudflare,HTML,72
+Cloudflare,TeX,169
+Cloudflare,PHP,5
+Cloudflare,Pug,5
+Cloudflare,Emacs Lisp,2
+Cloudflare,C++,4931
+Cloudflare,Shell,66
+Cloudflare,Vim script,9
+Cloudflare,Go,2444
+Cloudflare,Rust,2425
+Cloudflare,JavaScript,211
+Cloudflare,Sage,378
+Cloudflare,SCSS,6
+Cloudflare,Ruby,4
+Cloudflare,Java,2
+Cloudflare,Assembly,3
+Cloudflare,Starlark,1
+Analog Devices,Jupyter Notebook,68
+Analog Devices,C++,4294
+Analog Devices,Makefile,41
+Analog Devices,Shell,227
+Analog Devices,PowerShell,15
+Analog Devices,AGS Script,41
+Analog Devices,CMake,73
+Analog Devices,Visual Basic .NET,23
+Analog Devices,Python,1597
+Analog Devices,BitBake,130
+Analog Devices,MATLAB,603
+Analog Devices,SystemVerilog,70
+Analog Devices,C,11919
+Analog Devices,Verilog,2588
+Analog Devices,JavaScript,1
+Analog Devices,Groovy,339
+Analog Devices,Java,10
+Analog Devices,HTML,18
+SonarSource,TypeScript,3236
+SonarSource,Kotlin,590
+SonarSource,PHP,10
+SonarSource,CSS,2
+SonarSource,ActionScript,5
+SonarSource,Java,17403
+SonarSource,JavaScript,6378
+SonarSource,Shell,194
+SonarSource,Mustache,282
+SonarSource,Go,1
+SonarSource,COBOL,43
+SonarSource,C#,9632
+SonarSource,Dockerfile,150
+SonarSource,Python,140
+SonarSource,JSON,1
+Confluent,HTML,64
+Confluent,Go,1941
+Confluent,Nix,2
+Confluent,Python,9656
+Confluent,Dockerfile,35
+Confluent,C#,350
+Confluent,Rust,2
+Confluent,Java,27760
+Confluent,Scala,314
+Confluent,Shell,10042
+Confluent,JavaScript,13
+Confluent,C,149
+Confluent,Jinja,1529
+Confluent,HCL,38
+Confluent,Kotlin,12
+Confluent,Emacs Lisp,1
+Confluent,CodeQL,1
+Linaro,BitBake,664
+Linaro,Perl,23
+Linaro,Logos,7
+Linaro,Fortran,1
+Linaro,Rust,1029
+Linaro,Jinja,35
+Linaro,Dart,162
+Linaro,C++,298
+Linaro,NASL,2
+Linaro,Python,1851
+Linaro,Java,342
+Linaro,Go,26
+Linaro,Shell,426
+Linaro,JavaScript,58
+Linaro,Starlark,8
+Linaro,C,24997
+Linaro,HTML,44
+Linaro,Dockerfile,41
+Linaro,Makefile,73
+Linaro,Emacs Lisp,24
+Broadcom,C,1213
+Broadcom,Python,441
+Broadcom,Shell,507
+Broadcom,C++,998
+Broadcom,Go,425
+Broadcom,HCL,22
+Broadcom,Starlark,7
+Broadcom,Assembly,1
+Broadcom,PHP,5
+Broadcom,Java,3199
+Broadcom,Dockerfile,13
+Broadcom,Ruby,58
+Broadcom,Objective-C,85
+Broadcom,Kotlin,4
+Broadcom,Groovy,2
+Broadcom,Clojure,3
+Broadcom,TypeScript,2872
+Broadcom,Perl,4
+Broadcom,HTML,84
+Broadcom,COBOL,1021
+Broadcom,Mustache,6
+Broadcom,PowerShell,16
+Broadcom,Jinja,6
+Broadcom,Rust,2
+Broadcom,JavaScript,1498
+Broadcom,Smarty,261
+Broadcom,REXX,25
+Broadcom,Makefile,3
+NXP Semiconductors,BitBake,454
+NXP Semiconductors,GLSL,5
+NXP Semiconductors,C,8038
+NXP Semiconductors,Java,222
+NXP Semiconductors,Ruby,33
+NXP Semiconductors,Jupyter Notebook,10
+NXP Semiconductors,Makefile,5
+NXP Semiconductors,Python,194
+NXP Semiconductors,HTML,102
+NXP Semiconductors,Shell,26
+NXP Semiconductors,C++,899
+NXP Semiconductors,CMake,5
+NXP Semiconductors,AGS Script,1
+LinkedIn,Java,8444
+LinkedIn,C,7
+LinkedIn,C++,1
+LinkedIn,SCSS,1
+LinkedIn,Groovy,1
+LinkedIn,Go,32
+LinkedIn,Scala,139
+LinkedIn,Vim script,7
+LinkedIn,Ruby,1
+LinkedIn,Shell,12
+LinkedIn,Smarty,12
+LinkedIn,Dockerfile,2
+LinkedIn,CMake,3
+LinkedIn,Python,362
+LinkedIn,TypeScript,851
+LinkedIn,Objective-C,22
+LinkedIn,Jupyter Notebook,8
+LinkedIn,Rust,6
+LinkedIn,HTML,3
+LinkedIn,JavaScript,257
+LinkedIn,Scheme,3
+LinkedIn,PowerShell,1
+Palo Alto Networks,Go,381
+Palo Alto Networks,PHP,500
+Palo Alto Networks,Smarty,15
+Palo Alto Networks,Kotlin,74
+Palo Alto Networks,HTML,8
+Palo Alto Networks,Ruby,3
+Palo Alto Networks,C,1
+Palo Alto Networks,HCL,941
+Palo Alto Networks,Java,1
+Palo Alto Networks,Roff,2
+Palo Alto Networks,Python,29560
+Palo Alto Networks,TypeScript,281
+Palo Alto Networks,Brainfuck,765
+Palo Alto Networks,JavaScript,588
+Palo Alto Networks,Shell,3
+Palo Alto Networks,Scala,2
+Palo Alto Networks,CSS,3
+Palo Alto Networks,Mustache,6
+Equinor,TypeScript,3028
+Equinor,PowerShell,39
+Equinor,Rust,36
+Equinor,Java,16
+Equinor,R,1
+Equinor,C#,3887
+Equinor,Jupyter Notebook,45
+Equinor,JavaScript,104
+Equinor,Dockerfile,1
+Equinor,C++,2168
+Equinor,ABAP,8
+Equinor,Shell,187
+Equinor,CSS,183
+Equinor,HTML,33
+Equinor,Julia,1
+Equinor,Bicep,8
+Equinor,Python,6495
+Equinor,Go,1158
+Equinor,OpenEdge ABL,41
+Equinor,Makefile,2
+Snyk,Ruby,9318
+Snyk,PHP,2106
+Snyk,CoffeeScript,346
+Snyk,HCL,569
+Snyk,Kotlin,949
+Snyk,XSLT,32
+Snyk,Perl,56
+Snyk,Dart,67
+Snyk,Smarty,103
+Snyk,Batchfile,27
+Snyk,Jsonnet,148
+Snyk,Nix,98
+Snyk,Starlark,35
+Snyk,Sass,25
+Snyk,Pug,5
+Snyk,Svelte,22
+Snyk,Emacs Lisp,3
+Snyk,SystemVerilog,13
+Snyk,Astro,33
+Snyk,CodeQL,8
+Snyk,Io,10
+Snyk,Ballerina,18
+Snyk,Lua,38
+Snyk,Less,21
+Snyk,Assembly,9
+Snyk,RobotFramework,8
+Snyk,Zeek,6
+Snyk,Apex,9
+Snyk,VCL,2
+Snyk,Python,26464
+Snyk,JavaScript,99219
+Snyk,TypeScript,65769
+Snyk,Java,85744
+Snyk,C++,2088
+Snyk,Vue,2733
+Snyk,Jupyter Notebook,4634
+Snyk,Makefile,230
+Snyk,Groovy,71
+Snyk,C,1020
+Snyk,Eiffel,18
+Snyk,Elixir,102
+Snyk,Smali,74
+Snyk,PowerShell,83
+Snyk,Reason,352
+Snyk,Yacc,6
+Snyk,XQuery,17
+Snyk,Haskell,41
+Snyk,Puppet,4
+Snyk,Blade,36
+Snyk,Web Ontology Language,11
+Snyk,Julia,8
+Snyk,TeX,7
+Snyk,ReScript,2
+Snyk,Haml,6
+Snyk,Arduino,1
+Snyk,OpenEdge ABL,4
+Snyk,CMake,5
+Snyk,Liquid,1
+Snyk,wdl,1
+Snyk,Twig,24
+Snyk,Open Policy Agent,141
+Snyk,CSS,4186
+Snyk,SCSS,1383
+Snyk,Shell,3670
+Snyk,OCaml,90
+Snyk,EJS,1447
+Snyk,Elm,31
+Snyk,AutoHotkey,17
+Snyk,Swift,124
+Snyk,Handlebars,66
+Snyk,Objective-C,280
+Snyk,TSQL,31
+Snyk,RAML,374
+Snyk,Pascal,13
+Snyk,Nunjucks,35
+Snyk,Tcl,6
+Snyk,Stylus,8
+Snyk,Protocol Buffer,6
+Snyk,Roff,7
+Snyk,Gherkin,7
+Snyk,DM,4
+Snyk,SQLPL,25
+Snyk,SaltStack,6
+Snyk,Bicep,3
+Snyk,CartoCSS,2
+Snyk,YARA,3
+Snyk,Xtend,6
+Snyk,Objective-C++,3
+Snyk,Ada,2
+Snyk,Crystal,1
+Snyk,Go,13113
+Snyk,Scala,2318
+Snyk,C#,2022
+Snyk,HTML,12526
+Snyk,Rust,1641
+Snyk,Solidity,370
+Snyk,Dockerfile,1910
+Snyk,Erlang,30
+Snyk,Jinja,138
+Snyk,Markdown,201
+Snyk,Visual Basic,8
+Snyk,Clojure,116
+Snyk,Mustache,289
+Snyk,PLpgSQL,20
+Snyk,Riot,13
+Snyk,PureScript,7
+Snyk,PureBasic,4
+Snyk,PLSQL,16
+Snyk,ActionScript,2
+Snyk,PostScript,2
+Snyk,Vim script,6
+Snyk,LiveScript,2
+Snyk,LLVM,4
+Snyk,VHDL,1
+Snyk,COBOL,6
+Snyk,FreeMarker,6
+Snyk,R,4
+Snyk,Vim Snippet,7
+Snyk,JSON,1
+Couchbase,Python,2492
+Couchbase,C++,1893
+Couchbase,Java,782
+Couchbase,Objective-C,277
+Couchbase,Ruby,78
+Couchbase,Shell,53
+Couchbase,Kotlin,11
+Couchbase,Rich Text Format,4
+Couchbase,HTML,11
+Couchbase,Erlang,33
+Couchbase,Scala,4
+Couchbase,Jupyter Notebook,1
+Couchbase,CMake,149
+Couchbase,Dockerfile,184
+Couchbase,C#,307
+Couchbase,TypeScript,133
+Couchbase,Groovy,20
+Couchbase,Clojure,2
+Couchbase,Go,5637
+Couchbase,JavaScript,1358
+Couchbase,C,15
+Couchbase,Mustache,66
+Couchbase,Emacs Lisp,3
+Sentry,TypeScript,9879
+Sentry,Shell,238
+Sentry,Ruby,89
+Sentry,Erlang,2
+Sentry,Python,26702
+Sentry,JavaScript,83
+Sentry,HTML,2
+Sentry,Rust,4309
+Sentry,Kotlin,1379
+Sentry,C++,20
+Sentry,Objective-C,2396
+Sentry,Go,102
+Sentry,PHP,978
+Sentry,C#,689
+Sentry,Dart,137
+Sentry,C,52
+Sentry,Java,3
+ESRI,Jupyter Notebook,79
+ESRI,Python,682
+ESRI,JavaScript,906
+ESRI,Swift,8
+ESRI,Scala,38
+ESRI,TypeScript,5843
+ESRI,Shell,113
+ESRI,PowerShell,167
+ESRI,C,26
+ESRI,Batchfile,10
+ESRI,Svelte,3
+ESRI,C++,962
+ESRI,C#,517
+ESRI,Java,107
+ESRI,Dockerfile,46
+ESRI,Rust,10
+ESRI,PHP,10
+ESRI,Markdown,1
+ESRI,HTML,265
+ESRI,QML,12
+ESRI,ShaderLab,218
+ESRI,SCSS,17
+ESRI,Ruby,4
+ESRI,Handlebars,1
+ESRI,CSS,3
+Splunk,TypeScript,13
+Splunk,Smarty,343
+Splunk,C,6
+Splunk,PowerShell,1
+Splunk,reStructuredText,1
+Splunk,Elixir,80
+Splunk,Erlang,107
+Splunk,Dockerfile,6
+Splunk,Jupyter Notebook,78
+Splunk,PHP,38
+Splunk,Java,2240
+Splunk,Swift,235
+Splunk,Shell,726
+Splunk,C++,1704
+Splunk,C#,985
+Splunk,Makefile,60
+Splunk,Vim script,4
+Splunk,Jinja,4
+Splunk,Python,2815
+Splunk,Go,5737
+Splunk,JavaScript,772
+Splunk,HTML,153
+Splunk,Ruby,90
+Splunk,HCL,33
+Splunk,Emacs Lisp,2
+Thoughtworks,Python,172
+Thoughtworks,XSLT,15
+Thoughtworks,Smarty,16
+Thoughtworks,C++,4
+Thoughtworks,Batchfile,11
+Thoughtworks,SCSS,22
+Thoughtworks,HCL,5
+Thoughtworks,Rich Text Format,1
+Thoughtworks,Swift,141
+Thoughtworks,Ruby,626
+Thoughtworks,Shell,1015
+Thoughtworks,Dockerfile,171
+Thoughtworks,Slim,36
+Thoughtworks,PHP,35
+Thoughtworks,Java,5272
+Thoughtworks,TypeScript,1401
+Thoughtworks,Kotlin,284
+Thoughtworks,C#,356
+Thoughtworks,Scala,65
+Thoughtworks,Go,45
+Thoughtworks,Dart,10
+Thoughtworks,Vue,2
+Thoughtworks,HTML,598
+Thoughtworks,Groovy,91
+Thoughtworks,Mustache,86
+Thoughtworks,JavaScript,2458
+Thoughtworks,Makefile,40
+Thoughtworks,C,11
+Wind River Systems,Roff,57
+Wind River Systems,BitBake,999
+Wind River Systems,Jinja,210
+Wind River Systems,Java,36
+Wind River Systems,NASL,35
+Wind River Systems,Sass,2
+Wind River Systems,Makefile,73
+Wind River Systems,Perl,42
+Wind River Systems,BlitzBasic,9
+Wind River Systems,C,1092
+Wind River Systems,Python,2821
+Wind River Systems,Shell,558
+Wind River Systems,C++,58
+Wind River Systems,Go,283
+Wind River Systems,Vim script,1
+Wind River Systems,XSLT,1
+Cockroach Labs,Java,17
+Cockroach Labs,Rust,5
+Cockroach Labs,Smarty,1
+Cockroach Labs,TypeScript,97
+Cockroach Labs,Ruby,75
+Cockroach Labs,Python,68
+Cockroach Labs,Shell,11
+Cockroach Labs,CSS,4
+Cockroach Labs,JavaScript,14
+Cockroach Labs,C#,2
+Cockroach Labs,C,1
+Cockroach Labs,Go,39833
+Cockroach Labs,HTML,4379
+Cockroach Labs,Mustache,40
+Cockroach Labs,Starlark,1
+Kitware,TypeScript,161
+Kitware,HTML,87
+Kitware,Vim script,229
+Kitware,C#,596
+Kitware,Dockerfile,87
+Kitware,HCL,131
+Kitware,MATLAB,8
+Kitware,G-code,1
+Kitware,C++,12761
+Kitware,Shell,64
+Kitware,Terra,1
+Kitware,Matlab,106
+Kitware,Ruby,54
+Kitware,Fortran,1
+Kitware,C,3352
+Kitware,Python,12417
+Kitware,PHP,323
+Kitware,Jupyter Notebook,779
+Kitware,JavaScript,2424
+Kitware,Vue,1181
+Kitware,CMake,869
+Kitware,TeX,147
+Kitware,Go,4
+Square,Vue,95
+Square,Java,366
+Square,Swift,1113
+Square,Shell,100
+Square,Python,85
+Square,HTML,98
+Square,Haskell,1
+Square,TypeScript,539
+Square,Starlark,349
+Square,Rust,36
+Square,C++,19
+Square,Vim script,20
+Square,Bikeshed,3
+Square,C#,14
+Square,Jupyter Notebook,2
+Square,Kotlin,4793
+Square,PHP,90
+Square,C,547
+Square,Emacs Lisp,10
+Square,Objective-C,67
+Square,Vim Script,2
+Square,Go,1162
+Square,Ruby,138
+Square,JavaScript,66
+Square,Lua,9
+Square,Scheme,3
+Square,Mustache,15
+Square,SaltStack,3
+Square,Dart,1
+Collabora,PHP,27
+Collabora,Dockerfile,2
+Collabora,Lua,1
+Collabora,C,13478
+Collabora,Shell,194
+Collabora,CMake,13
+Collabora,TypeScript,77
+Collabora,Perl,72
+Collabora,C#,9
+Collabora,Makefile,5
+Collabora,Emacs Lisp,7
+Collabora,Jupyter Notebook,3
+Collabora,Python,11299
+Collabora,Go,275
+Collabora,Rust,108
+Collabora,BitBake,49
+Collabora,HTML,14
+Collabora,Meson,79
+Collabora,JavaScript,7464
+Collabora,C++,168
+Collabora,Vala,48
+Uber,Zig,16
+Uber,Shell,21
+Uber,Ruby,2
+Uber,Nix,1
+Uber,Go,2572
+Uber,CSS,12
+Uber,PHP,17
+Uber,Thrift,19
+Uber,Scala,4
+Uber,Java,2441
+Uber,JavaScript,243
+Uber,Lua,5
+Uber,TypeScript,38
+Uber,Jupyter Notebook,17
+Uber,Swift,10
+Uber,Assembly,1
+Uber,Kotlin,176
+Uber,C++,84
+Uber,Starlark,89
+Uber,Python,158
+Uber,HTML,5
+Uber,Rust,11
+Uber,Vue,35
+Uber,Makefile,5
+Atlassian,TypeScript,4265
+Atlassian,Shell,50
+Atlassian,C++,22
+Atlassian,Python,632
+Atlassian,HCL,109
+Atlassian,Nix,4
+Atlassian,Scala,2
+Atlassian,Ruby,5
+Atlassian,CSS,80
+Atlassian,C,20
+Atlassian,Vim script,6
+Atlassian,Vim Script,6
+Atlassian,Kotlin,1146
+Atlassian,Java,1277
+Atlassian,C#,17
+Atlassian,JavaScript,695
+Atlassian,HTML,153
+Atlassian,Go,333
+Atlassian,Rust,10
+Atlassian,Haskell,1
+ONLYOFFICE,HTML,4156
+ONLYOFFICE,Java,665
+ONLYOFFICE,PHP,1012
+ONLYOFFICE,Vue,27
+ONLYOFFICE,C#,6429
+ONLYOFFICE,Python,525
+ONLYOFFICE,Inno Setup,23
+ONLYOFFICE,C++,2621
+ONLYOFFICE,Dart,8
+ONLYOFFICE,Ruby,433
+ONLYOFFICE,PowerShell,7
+ONLYOFFICE,JavaScript,7443
+ONLYOFFICE,Smarty,63
+ONLYOFFICE,Swift,368
+ONLYOFFICE,Shell,579
+ONLYOFFICE,ASP.NET,897
+ONLYOFFICE,CSS,197
+ONLYOFFICE,Kotlin,359
+ONLYOFFICE,Go,63
+ONLYOFFICE,Makefile,21
+ONLYOFFICE,Dockerfile,43
+Accenture,JavaScript,1533
+Accenture,PHP,243
+Accenture,Kotlin,27576
+Accenture,Mustache,58
+Accenture,HCL,201
+Accenture,Twig,11
+Accenture,PowerShell,11
+Accenture,Dockerfile,7
+Accenture,Jupyter Notebook,4
+Accenture,Rich Text Format,1
+Accenture,Jinja,1
+Accenture,Java,1750
+Accenture,Shell,238
+Accenture,HTML,343
+Accenture,Swift,21
+Accenture,Elixir,483
+Accenture,Go,85
+Accenture,C,38
+Accenture,Apex,85
+Accenture,Handlebars,26
+Accenture,Vim Script,6
+Accenture,TSQL,1
+Accenture,Ruby,1
+Accenture,Lua,1
+Accenture,Rust,299
+Accenture,TypeScript,1577
+Accenture,C#,219
+Accenture,CSS,6
+Accenture,Vim script,6
+Accenture,Python,334
+Accenture,C++,6
+Accenture,Gherkin,1787
+Accenture,Scala,49
+Accenture,Dart,5
+Accenture,TeX,2
+CGI,Apex,141
+CGI,Java,4610
+CGI,TypeScript,2847
+CGI,Vue,1298
+CGI,C#,349
+CGI,Jinja,44
+CGI,Groovy,15
+CGI,Go,172
+CGI,HCL,354
+CGI,Dockerfile,2
+CGI,Swift,1
+CGI,TSQL,56
+CGI,GLSL,95
+CGI,Rich Text Format,21
+CGI,Shell,77
+CGI,C++,70
+CGI,SCSS,11
+CGI,PowerShell,3
+CGI,Scala,2
+CGI,Rust,4
+CGI,Kotlin,1
+CGI,PLpgSQL,591
+CGI,JavaScript,1995
+CGI,Jupyter Notebook,14
+CGI,Python,98
+CGI,Dart,38
+CGI,Mustache,2
+Netflix,JavaScript,343
+Netflix,Makefile,19
+Netflix,Starlark,11
+Netflix,R,8
+Netflix,CSS,2
+Netflix,C++,85
+Netflix,Python,1927
+Netflix,Shell,14
+Netflix,Vue,18
+Netflix,Vim Script,21
+Netflix,C,33
+Netflix,Emacs Lisp,4
+Netflix,Lua,3
+Netflix,Assembly,1
+Netflix,Kotlin,532
+Netflix,Jupyter Notebook,59
+Netflix,HTML,31
+Netflix,Scala,44
+Netflix,TeX,4
+Netflix,PowerShell,1
+Netflix,Go,180
+Netflix,Java,1837
+Netflix,TypeScript,107
+Netflix,Groovy,958
+Netflix,Ruby,7
+Aiven,Java,5105
+Aiven,Python,2207
+Aiven,C,125
+Aiven,C++,149
+Aiven,ANTLR,2
+Aiven,HCL,7
+Aiven,CSS,1
+Aiven,PLpgSQL,2335
+Aiven,Perl,8
+Aiven,Shell,6
+Aiven,Kotlin,4
+Aiven,HTML,3436
+Aiven,Go,1921
+Aiven,Scala,1418
+Aiven,JavaScript,7
+Aiven,Nix,10
+Aiven,Rust,6
+Aiven,Smarty,14
+Aiven,Ruby,3
+Aiven,CoffeeScript,18
+Aiven,Apex,1
+Aiven,TypeScript,2
+Aiven,Jinja,1
+IOHK,TeX,192
+IOHK,Haskell,22298
+IOHK,Perl,4505
+IOHK,Python,148
+IOHK,PureScript,1748
+IOHK,Nix,4174
+IOHK,Scala,609
+IOHK,Jupyter Notebook,41
+IOHK,Shell,64
+IOHK,Go,26
+IOHK,C,5
+IOHK,CSS,8
+IOHK,Emacs Lisp,10
+IOHK,Ruby,15
+IOHK,Rust,948
+IOHK,TypeScript,4025
+IOHK,Isabelle,127
+IOHK,JavaScript,137
+IOHK,Crystal,8
+Siemens,Python,2779
+Siemens,SCSS,61
+Siemens,BitBake,107
+Siemens,C#,264
+Siemens,Markdown,23
+Siemens,Smarty,8
+Siemens,Vim script,3
+Siemens,NASL,1
+Siemens,Mustache,4
+Siemens,Rust,2
+Siemens,Jinja,4
+Siemens,Nix,2
+Siemens,Go,26
+Siemens,Vim Script,1
+Siemens,Lua,1
+Siemens,Emacs Lisp,3
+Siemens,Makefile,2
+Siemens,TypeScript,1668
+Siemens,Java,728
+Siemens,Jupyter Notebook,14
+Siemens,CSS,1
+Siemens,Kotlin,135
+Siemens,C,2570
+Siemens,JavaScript,140
+Siemens,HTML,229
+Siemens,Perl,735
+Siemens,PHP,315
+Siemens,C++,209
+Siemens,Shell,16
+Siemens,Ruby,8
+WIX,Scala,731
+WIX,Shell,3615
+WIX,Starlark,389
+WIX,Python,31
+WIX,Objective-C,192
+WIX,PEG.js,14
+WIX,JavaScript,1041
+WIX,TypeScript,4418
+WIX,Lua,3
+WIX,C++,1
+WIX,HTML,22
+WIX,Go,9
+WIX,Rust,2
+WIX,Java,1147
+WIX,C,7
+WIX,CSS,1
+WIX,Markdown,1
+Capgemini,HTML,183
+Capgemini,Jinja,369
+Capgemini,PowerShell,19
+Capgemini,Go,21
+Capgemini,SCSS,1
+Capgemini,PHP,19
+Capgemini,Shell,218
+Capgemini,JavaScript,5354
+Capgemini,Rust,78
+Capgemini,Vue,80
+Capgemini,Python,30
+Capgemini,Handlebars,203
+Capgemini,Smarty,126
+Capgemini,Scala,16
+Capgemini,Assembly,5
+Capgemini,Apex,1
+Capgemini,C#,139
+Capgemini,C++,197
+Capgemini,CSS,27
+Capgemini,OpenSCAD,3
+Capgemini,Java,719
+Capgemini,Smalltalk,20
+Capgemini,HCL,21
+Capgemini,TypeScript,1856
+Capgemini,Vim script,1
+Capgemini,C,1
+Capgemini,TSQL,1
+Sony,C++,612
+Sony,Nix,5
+Sony,Cuda,95
+Sony,PHP,81
+Sony,Makefile,9
+Sony,Shell,38
+Sony,C#,8
+Sony,Handlebars,12
+Sony,Tcl,1
+Sony,Python,768
+Sony,Rust,90
+Sony,EmberScript,1
+Sony,C,970
+Sony,TypeScript,716
+Sony,Logos,1
+Sony,HTML,23
+Sony,Jupyter Notebook,12
+Sony,SCSS,31
+Sony,JavaScript,18
+Sony,Vim Script,3
+Sony,Go,88
+Sony,Java,1431
+Sony,Ruby,1
+Instructure,Ruby,11717
+Instructure,C,88
+Instructure,TypeScript,757
+Instructure,Dockerfile,45
+Instructure,Rust,9
+Instructure,D,6
+Instructure,Swift,1515
+Instructure,Python,71
+Instructure,JavaScript,111
+Igalia,Shell,83
+Igalia,JSON,28
+Igalia,Markdown,5
+Igalia,Dockerfile,4
+Igalia,Logos,1
+Igalia,GLSL,2
+Igalia,Ruby,1
+Igalia,HTML,507
+Igalia,Rust,216
+Igalia,WebAssembly,47
+Igalia,JavaScript,2239
+Igalia,SCSS,62
+Igalia,Scheme,17
+Igalia,Python,797
+Igalia,Java,1983
+Igalia,C++,1603
+Igalia,Makefile,330
+Igalia,BitBake,113
+Igalia,TypeScript,36
+Igalia,SaltStack,30
+Igalia,TeX,2
+Igalia,C,2345
+Igalia,NASL,39
+Igalia,PHP,1
+Igalia,Meson,1
+Shopware,Python,1
+Shopware,Nix,74
+Shopware,TypeScript,97
+Shopware,Go,354
+Shopware,Rust,56
+Shopware,Kotlin,12
+Shopware,PHP,7558
+Shopware,HTML,13
+Shopware,Vue,392
+Shopware,JavaScript,1104
+Shopware,Shell,5
+Shopware,Java,1
+Bloomberg,Go,352
+Bloomberg,Ruby,11
+Bloomberg,Emacs Lisp,44
+Bloomberg,PHP,16
+Bloomberg,C,2301
+Bloomberg,Python,2697
+Bloomberg,TypeScript,55
+Bloomberg,Kotlin,239
+Bloomberg,JavaScript,38
+Bloomberg,Swift,32
+Bloomberg,Starlark,115
+Bloomberg,Vim script,4
+Bloomberg,Dockerfile,5
+Bloomberg,Makefile,130
+Bloomberg,Shell,52
+Bloomberg,Perl,108
+Bloomberg,Haskell,15
+Bloomberg,Vim Script,10
+Bloomberg,Rust,15
+Bloomberg,C++,687
+Bloomberg,HTML,624
+Bloomberg,Java,60
+Bloomberg,Jsonnet,14
+Bloomberg,OCaml,1
+Bloomberg,SCSS,1
+Bloomberg,Scala,1
+Bloomberg,CMake,1
+RTE,Jupyter Notebook,15
+RTE,C++,2262
+RTE,CSS,762
+RTE,Java,10396
+RTE,Shell,240
+RTE,JavaScript,3114
+RTE,C,2180
+RTE,Dockerfile,11
+RTE,Python,1601
+RTE,HTML,293
+RTE,Groovy,16
+RTE,R,94
+RTE,SCSS,20
+WSO2,TypeScript,1764
+WSO2,HTML,3032
+WSO2,Java,15707
+WSO2,Python,314
+WSO2,Smarty,11
+WSO2,C++,3
+WSO2,Go,76
+WSO2,Lua,2
+WSO2,JavaScript,397
+WSO2,CSS,712
+WSO2,Ballerina,8233
+WSO2,Shell,5403
+WSO2,Groovy,45
+WSO2,Dockerfile,13
+WSO2,PHP,1
+Twilio,PHP,77
+Twilio,Kotlin,32
+Twilio,C#,126
+Twilio,C,111
+Twilio,JavaScript,966
+Twilio,Rust,6
+Twilio,Squirrel,6
+Twilio,Vim Script,2
+Twilio,Ruby,112
+Twilio,Shell,4
+Twilio,Go,555
+Twilio,TypeScript,3384
+Twilio,Makefile,46
+Twilio,Python,295
+Twilio,HTML,136
+Twilio,Java,1331
+Twilio,CMake,1
+Twilio,Swift,69
+Twilio,PowerShell,37
+Twilio,Objective-C,7
+Camptocamp,JavaScript,4108
+Camptocamp,TypeScript,2532
+Camptocamp,Java,2132
+Camptocamp,Vue,203
+Camptocamp,CSS,25
+Camptocamp,Rust,2
+Camptocamp,Shell,2
+Camptocamp,Python,7458
+Camptocamp,Go,45
+Camptocamp,HCL,870
+Camptocamp,Puppet,27
+Camptocamp,Jinja,18
+Camptocamp,Gettext Catalog,1
+Camptocamp,C++,1
+Camptocamp,Scheme,3
+Camptocamp,Smarty,102
+Camptocamp,Mustache,105
+Camptocamp,HTML,588
+Camptocamp,C,1
+Camptocamp,Ruby,8
+Camptocamp,Augeas,2
+Camptocamp,SCSS,1
+MediaTek,C++,174
+MediaTek,Makefile,10
+MediaTek,Python,81
+MediaTek,Perl,172
+MediaTek,Java,599
+MediaTek,C,2251
+MediaTek,Rust,3
+Microchip Technology,C++,253
+Microchip Technology,Python,121
+Microchip Technology,FreeMarker,9
+Microchip Technology,TypeScript,2
+Microchip Technology,C#,1
+Microchip Technology,Makefile,181
+Microchip Technology,Java,13
+Microchip Technology,HTML,76
+Microchip Technology,BitBake,171
+Microchip Technology,AMPL,2
+Microchip Technology,C,3197
+Microchip Technology,JavaScript,51
+Microchip Technology,Ruby,7
+Pivotal Software,Java,2064
+Pivotal Software,Go,3299
+Pivotal Software,Ruby,2094
+Pivotal Software,Starlark,755
+Pivotal Software,OCaml,1
+Pivotal Software,Groovy,11
+Pivotal Software,HCL,8
+Pivotal Software,CSS,2
+Pivotal Software,PHP,5
+Pivotal Software,C#,83
+Pivotal Software,PowerShell,11
+Pivotal Software,PLpgSQL,1
+Pivotal Software,Erlang,1
+Pivotal Software,C,735
+Pivotal Software,JavaScript,202
+Pivotal Software,Shell,921
+Pivotal Software,HTML,1590
+Pivotal Software,Dockerfile,180
+Pivotal Software,Mustache,13
+Pivotal Software,SCSS,1
+Pivotal Software,Kotlin,1
+Pivotal Software,Python,187
+Pivotal Software,Rust,5
+Pivotal Software,C++,1
+Pivotal Software,TypeScript,1
+ConsenSys,Go,403
+ConsenSys,Solidity,10
+ConsenSys,Java,3391
+ConsenSys,JavaScript,10224
+ConsenSys,Assembly,97
+ConsenSys,HCL,6
+ConsenSys,Kotlin,1
+ConsenSys,Dafny,166
+ConsenSys,Python,38
+ConsenSys,TypeScript,346
+ConsenSys,HTML,241
+ConsenSys,Shell,24
+ConsenSys,C#,1
+ConsenSys,Markdown,5
+ConsenSys,Makefile,15
+ConsenSys,Rust,2
+Percona,C,10
+Percona,TypeScript,85
+Percona,Python,4360
+Percona,Perl,334
+Percona,JavaScript,658
+Percona,Dockerfile,176
+Percona,TeX,2
+Percona,Go,6751
+Percona,C++,4349
+Percona,HTML,1504
+Percona,HCL,99
+Percona,Shell,697
+Percona,Groovy,2940
+Percona,Mustache,141
+Percona,CSS,1
+Percona,Yacc,1
+Okta,Rust,90
+Okta,TypeScript,2485
+Okta,Java,205
+Okta,Go,2925
+Okta,C#,107
+Okta,EJS,29
+Okta,C,1
+Okta,SCSS,1
+Okta,Shell,80
+Okta,JavaScript,4174
+Okta,Python,89
+Okta,Dart,31
+Okta,Vue,36
+Okta,CSS,60
+Okta,Mustache,86
+Okta,Kotlin,87
+Okta,Ruby,53
+Okta,Swift,735
+Okta,Groovy,112
+Okta,PHP,221
+Okta,Objective-C,3
+Okta,Smarty,2
+LG Electronics,C++,1083
+LG Electronics,HTML,40
+LG Electronics,Shell,23
+LG Electronics,SCSS,27
+LG Electronics,QML,2
+LG Electronics,Vim Script,1
+LG Electronics,JavaScript,2064
+LG Electronics,CSS,22
+LG Electronics,CMake,4
+LG Electronics,Objective-C,1
+LG Electronics,C#,265
+LG Electronics,C,423
+LG Electronics,BitBake,109
+LG Electronics,Jupyter Notebook,3
+LG Electronics,Java,1156
+LG Electronics,Vim script,46
+LG Electronics,Python,772
+Texas Instruments,Dart,20
+Texas Instruments,Java,20
+Texas Instruments,Shell,24
+Texas Instruments,Rust,1
+Texas Instruments,BitBake,1407
+Texas Instruments,Python,257
+Texas Instruments,C,3493
+Texas Instruments,C++,157
+Texas Instruments,Makefile,5
+Orange,JavaScript,4033
+Orange,TypeScript,32
+Orange,Nunjucks,98
+Orange,Mustache,4
+Orange,C++,45
+Orange,RobotFramework,1
+Orange,Shell,931
+Orange,HTML,98
+Orange,D,1
+Orange,CSS,10
+Orange,PHP,4
+Orange,HCL,9
+Orange,PowerShell,1
+Orange,Cuda,1
+Orange,Groovy,1
+Orange,Go,567
+Orange,Python,1147
+Orange,Swift,532
+Orange,Smarty,1
+Orange,Kotlin,4
+Orange,XSLT,1
+Orange,Rust,2106
+Orange,Java,2494
+Orange,Makefile,1043
+Orange,C,104
+Orange,Ruby,371
+Orange,SCSS,10
+Orange,Jinja,4
+ScyllaDB,C++,15016
+ScyllaDB,Go,4740
+ScyllaDB,C,32
+ScyllaDB,SCSS,1
+ScyllaDB,Shell,572
+ScyllaDB,Svelte,168
+ScyllaDB,Python,8198
+ScyllaDB,Java,382
+ScyllaDB,Rust,1905
+ScyllaDB,Scala,1
+ScyllaDB,JavaScript,11
+Stripe,Go,486
+Stripe,Scala,2
+Stripe,Rust,1
+Stripe,TypeScript,458
+Stripe,Shell,390
+Stripe,Swift,3213
+Stripe,C,27
+Stripe,CSS,6
+Stripe,Java,433
+Stripe,Kotlin,5730
+Stripe,Objective-C,20
+Stripe,Ruby,1410
+Stripe,PHP,274
+Stripe,JavaScript,527
+Stripe,C#,238
+Stripe,Python,747
+Stripe,Lua,20
+Stripe,Vim script,5
+Stripe,Emacs Lisp,6
+Stripe,C++,2
+Dynatrace,TypeScript,1146
+Dynatrace,Twig,27
+Dynatrace,Shell,14
+Dynatrace,Lua,29
+Dynatrace,SCSS,5
+Dynatrace,C,28
+Dynatrace,Ruby,53
+Dynatrace,Makefile,65
+Dynatrace,Swift,2
+Dynatrace,C++,17
+Dynatrace,Nix,17
+Dynatrace,Groovy,1
+Dynatrace,Bicep,5
+Dynatrace,Rich Text Format,1
+Dynatrace,Go,7971
+Dynatrace,Jupyter Notebook,61
+Dynatrace,HTML,136
+Dynatrace,C#,113
+Dynatrace,PHP,19
+Dynatrace,JavaScript,57
+Dynatrace,Dockerfile,50
+Dynatrace,Erlang,43
+Dynatrace,Rust,1
+Dynatrace,Python,743
+Dynatrace,Java,794
+GitLab,C,31
+GitLab,Smarty,5
+GitLab,HTML,2
+GitLab,Emacs Lisp,5
+GitLab,Dockerfile,197
+GitLab,Shell,2
+GitLab,Ruby,4743
+GitLab,Go,2307
+GitLab,Java,8
+GitLab,Jupyter Notebook,5
+GitLab,Roff,3
+GitLab,PHP,206
+GitLab,Rust,40
+GitLab,C++,47
+GitLab,CSS,11
+GitLab,JavaScript,18
+GitLab,HCL,8
+GitLab,Python,18
+GitLab,reStructuredText,2
+Talend,JavaScript,1761
+Talend,Kotlin,4
+Talend,Clojure,1
+Talend,Scala,2
+Talend,Mustache,1
+Talend,Java,4274
+Talend,Go,74
+Talend,Python,726
+Talend,Handlebars,14
+Talend,Groovy,1
+Talend,SCSS,1
+Talend,HTML,573
+Talend,Shell,11
+Palantir Technologies,Go,1453
+Palantir Technologies,Python,120
+Palantir Technologies,R,56
+Palantir Technologies,Swift,4
+Palantir Technologies,PowerShell,3
+Palantir Technologies,Java,8374
+Palantir Technologies,TypeScript,1080
+Palantir Technologies,Scala,35
+Palantir Technologies,Rust,327
+Palantir Technologies,Groovy,632
+Palantir Technologies,Shell,376
+Palantir Technologies,JavaScript,23
+Palantir Technologies,HTML,20
+Palantir Technologies,C++,6
+Palantir Technologies,Haskell,3
+Palantir Technologies,CSS,1
+Mapbox,C++,17
+Mapbox,JavaScript,1079
+Mapbox,Kotlin,2636
+Mapbox,Go,4
+Mapbox,HTML,24
+Mapbox,Rust,11
+Mapbox,Java,96
+Mapbox,Python,37
+Mapbox,Swift,2704
+Mapbox,TypeScript,35
+Mapbox,G-code,4
+Mapbox,Objective-C++,3
+T-Systems,Swift,403
+T-Systems,Rust,101
+T-Systems,HTML,120
+T-Systems,XSLT,21
+T-Systems,Smarty,10
+T-Systems,Mustache,3
+T-Systems,PowerShell,1
+T-Systems,Go,436
+T-Systems,Shell,59
+T-Systems,Ruby,81
+T-Systems,Python,267
+T-Systems,Xtend,4
+T-Systems,Java,3085
+T-Systems,PHP,316
+T-Systems,Jinja,236
+T-Systems,TypeScript,78
+T-Systems,HCL,93
+T-Systems,Jupyter Notebook,1
+T-Systems,Dockerfile,13
+T-Systems,FreeMarker,11
+T-Systems,C,21
+T-Systems,XML,24
+T-Systems,JavaScript,242
+T-Systems,CSS,47
+Antmicro,C,1809
+Antmicro,Tcl,2
+Antmicro,C++,3919
+Antmicro,Shell,524
+Antmicro,C#,888
+Antmicro,Starlark,60
+Antmicro,Verilog,2637
+Antmicro,Go,127
+Antmicro,CMake,13
+Antmicro,Dockerfile,1
+Antmicro,JavaScript,2
+Antmicro,Python,1673
+Antmicro,SystemVerilog,225
+Antmicro,CSS,61
+Antmicro,Jupyter Notebook,68
+Antmicro,BitBake,20
+Antmicro,HTML,3
+Antmicro,SCSS,96
+Antmicro,HCL,15
+Antmicro,TypeScript,2
+Antmicro,RobotFramework,5
+Antmicro,Rust,2
+Camunda,Go,480
+Camunda,Kotlin,46
+Camunda,Shell,728
+Camunda,Less,16
+Camunda,Ruby,9
+Camunda,C++,1
+Camunda,Scala,91
+Camunda,TypeScript,150
+Camunda,Rust,4
+Camunda,Nix,1
+Camunda,JavaScript,7638
+Camunda,Java,2719
+Camunda,HTML,317
+Camunda,Makefile,212
+Gradle,Kotlin,257
+Gradle,Shell,842
+Gradle,C++,1
+Gradle,Rust,3
+Gradle,Mustache,2
+Gradle,Groovy,17600
+Gradle,TypeScript,699
+Gradle,Ruby,5
+Gradle,Java,1879
+Gradle,Scala,10
+Gradle,Dart,1
+Gradle,JavaScript,8
+Gradle,CSS,7
+Autodesk,C++,1107
+Autodesk,Python,3490
+Autodesk,Go,170
+Autodesk,Swift,6
+Autodesk,Batchfile,5
+Autodesk,Mathematica,123
+Autodesk,C#,1369
+Autodesk,HTML,1052
+Autodesk,Kotlin,14
+Autodesk,CSS,21
+Autodesk,CMake,2
+Autodesk,Groovy,5
+Autodesk,Java,9
+Autodesk,PowerShell,3
+Autodesk,C,1
+Autodesk,JavaScript,311
+Autodesk,MAXScript,52
+Autodesk,TypeScript,73
+Autodesk,Rich Text Format,23
+Autodesk,Common Lisp,7
+Autodesk,Objective-C,4
+Autodesk,Visual Basic .NET,3
+Autodesk,Ruby,1
+Autodesk,Mustache,1
+Mendix,SCSS,289
+Mendix,CSS,7
+Mendix,Ruby,1
+Mendix,PowerShell,5
+Mendix,HTML,1
+Mendix,Markdown,6654
+Mendix,JavaScript,23
+Mendix,Rust,4
+Mendix,C#,15
+Mendix,Python,459
+Mendix,TypeScript,904
+Mendix,Go,4
+Mendix,Java,56
+Mendix,Shell,9
+SiFive,Assembly,33
+SiFive,Jupyter Notebook,6
+SiFive,Python,51
+SiFive,TeX,372
+SiFive,C,1461
+SiFive,C++,2282
+SiFive,Scala,1748
+SiFive,Vim Script,3
+SiFive,BitBake,1
+SiFive,Makefile,130
+SiFive,Logos,1
+Spryker,TypeScript,41
+Spryker,SCSS,1
+Spryker,RobotFramework,255
+Spryker,Scala,3
+Spryker,PHP,12490
+Spryker,HCL,20
+Spryker,Dockerfile,165
+Spryker,CSS,15
+Spryker,Twig,47
+Spryker,JavaScript,36
+Yahoo,Scala,64
+Yahoo,JavaScript,264
+Yahoo,HCL,32
+Yahoo,TeX,1
+Yahoo,Shell,106
+Yahoo,Swift,1
+Yahoo,Vim script,3
+Yahoo,Java,3561
+Yahoo,Jupyter Notebook,74
+Yahoo,Dockerfile,5
+Yahoo,Makefile,51
+Yahoo,TypeScript,20
+Yahoo,Handlebars,4
+Yahoo,HTML,355
+Yahoo,Python,196
+Yahoo,C++,186
+Yahoo,Ruby,355
+Yahoo,Dart,90
+Yahoo,Go,95
+Yahoo,C#,1
+Arbisoft,Groovy,34
+Arbisoft,HTML,33
+Arbisoft,SaltStack,10
+Arbisoft,C++,2
+Arbisoft,JavaScript,1788
+Arbisoft,Python,6988
+Arbisoft,Java,106
+Arbisoft,CSS,34
+Arbisoft,SCSS,42
+Arbisoft,Ruby,10
+Arbisoft,Shell,64
+Ericsson,TypeScript,1554
+Ericsson,C++,73
+Ericsson,Rust,63
+Ericsson,Shell,215
+Ericsson,C,555
+Ericsson,Astro,71
+Ericsson,Erlang,10
+Ericsson,Lua,21
+Ericsson,HCL,10
+Ericsson,Swift,4
+Ericsson,Vim script,1
+Ericsson,Java,644
+Ericsson,JavaScript,158
+Ericsson,HTML,71
+Ericsson,Go,12
+Ericsson,Perl,1
+Ericsson,C#,1
+Ericsson,Dockerfile,2
+Ericsson,Python,668
+Ericsson,Makefile,508
+Ericsson,Ruby,90
+MuleSoft,CSS,9
+MuleSoft,Shell,1427
+MuleSoft,Python,65
+MuleSoft,Emacs Lisp,3
+MuleSoft,Scala,310
+MuleSoft,Java,33031
+MuleSoft,JavaScript,112
+MuleSoft,DataWeave,142
+MuleSoft,HTML,196
+MuleSoft,Dockerfile,29
+MuleSoft,Jupyter Notebook,1
+MuleSoft,RAML,47
+MuleSoft,Go,30
+MuleSoft,Groovy,52
+MuleSoft,C++,1
+BBC,WebIDL,4
+BBC,C,290
+BBC,Elixir,19
+BBC,Emacs Lisp,14
+BBC,Shell,64
+BBC,Perl,8
+BBC,Rust,1
+BBC,PHP,1
+BBC,Vim script,3
+BBC,HTML,120
+BBC,JavaScript,5704
+BBC,TypeScript,113
+BBC,RAML,8
+BBC,Scala,72
+BBC,Java,15
+BBC,Lua,122
+BBC,Python,406
+BBC,Vim Script,6
+BBC,Makefile,64
+BBC,C++,526
+BBC,Jupyter Notebook,98
+BBC,Jinja,27
+BBC,Ruby,7
+BBC,Groovy,2
+Datadoghq,Go,466
+Datadoghq,Rust,63
+Datadoghq,JavaScript,170
+Datadoghq,Python,203
+Datadoghq,PHP,52
+Datadoghq,Java,132
+Datadoghq,C#,182
+Datadoghq,Ruby,69
+Datadoghq,Gherkin,15
+Datadoghq,Kotlin,10
+Datadoghq,Swift,75
+Datadoghq,HTML,54
+Datadoghq,TypeScript,41
+Datadoghq,Mustache,5
+Datadoghq,C++,45
+Datadoghq,PowerShell,15
+Datadoghq,Shell,3
+Datadoghq,Starlark,1
+PingCAP,C++,833
+PingCAP,CMake,98
+PingCAP,TeX,21
+PingCAP,Shell,1083
+PingCAP,SCSS,10
+PingCAP,TypeScript,32
+PingCAP,Go,11149
+PingCAP,Groovy,244
+PingCAP,Java,68
+PingCAP,Jsonnet,2
+PingCAP,Rust,1026
+PingCAP,Python,2007
+PingCAP,Ruby,1
+PingCAP,JavaScript,6
+PingCAP,HTML,7
+PingCAP,Smarty,8
+Ad Hoc,SCSS,265
+Ad Hoc,JavaScript,3104
+Ad Hoc,Ruby,1672
+Ad Hoc,TypeScript,1497
+Ad Hoc,Python,318
+Ad Hoc,Go,3
+Ad Hoc,Vim Script,2
+Ad Hoc,Java,3963
+Ad Hoc,Shell,18
+Ad Hoc,Nix,2
+Ant Group,C++,84
+Ant Group,Shell,34
+Ant Group,Less,27
+Ant Group,SCSS,4
+Ant Group,C,187
+Ant Group,Rust,1170
+Ant Group,Python,115
+Ant Group,TeX,13
+Ant Group,Sass,1
+Ant Group,TypeScript,1299
+Ant Group,Go,248
+Ant Group,JavaScript,29
+Ant Group,Vim Script,4
+Ant Group,CSS,1
+Ant Group,Java,173
+Ant Group,Vim script,22
+Ant Group,Mustache,1
+MariaDB,Makefile,1
+MariaDB,Yacc,292
+MariaDB,C,5060
+MariaDB,Shell,550
+MariaDB,Java,19
+MariaDB,Go,1
+MariaDB,JavaScript,4
+MariaDB,C++,10325
+MariaDB,Ruby,26
+MariaDB,Tcl,2
+MariaDB,PHP,1
+MariaDB,Perl,1
+MariaDB,TSQL,515
+MariaDB,Python,62
+MariaDB,HTML,5
+Brave,TypeScript,236
+Brave,HTML,82
+Brave,Ruby,462
+Brave,Shell,2
+Brave,OCaml,1
+Brave,Rust,523
+Brave,Python,579
+Brave,Swift,163
+Brave,Makefile,36
+Brave,SCSS,1
+Brave,Go,1190
+Brave,JavaScript,2550
+Brave,C++,11227
+CircleCI,Nix,124
+CircleCI,Dockerfile,624
+CircleCI,Shell,158
+CircleCI,CSS,38
+CircleCI,TSQL,12
+CircleCI,Clojure,10
+CircleCI,Lua,2
+CircleCI,Jsonnet,2
+CircleCI,Go,840
+CircleCI,JavaScript,3431
+CircleCI,HTML,8017
+CircleCI,SCSS,2
+CircleCI,Vue,7
+CircleCI,Ruby,19
+CircleCI,Mustache,4
+CircleCI,Swift,30
+CircleCI,Batchfile,115
+CircleCI,Python,605
+CircleCI,Java,24
+CircleCI,TypeScript,31
+CircleCI,HCL,1
+CircleCI,Elm,1
+DataStax,Java,4242
+DataStax,Python,248
+DataStax,Rust,204
+DataStax,TypeScript,20
+DataStax,MDX,3
+DataStax,YAML,16
+DataStax,C#,8
+DataStax,Go,232
+DataStax,JavaScript,143
+DataStax,C,6
+DataStax,Smarty,4
+DataStax,SCSS,2
+DataStax,CSS,99
+DataStax,C++,15
+DataStax,Dockerfile,4
+DataStax,Shell,3
+DataStax,Scala,2
+Tweag,Haskell,3117
+Tweag,Nix,1130
+Tweag,Jupyter Notebook,95
+Tweag,Starlark,1793
+Tweag,NCL,4
+Tweag,PostScript,1
+Tweag,Python,550
+Tweag,JavaScript,106
+Tweag,Lean,2
+Tweag,HTML,7
+Tweag,C,1
+Tweag,C++,663
+Tweag,Rust,3620
+Tweag,Java,15
+Tweag,Go,46
+Tweag,PureScript,2156
+Tweag,OCaml,21
+Tweag,TypeScript,8
+Tweag,Emacs Lisp,4
+Tweag,Perl,3
+Tweag,Scheme,1
+Gofore,Shell,15
+Gofore,Clojure,868
+Gofore,Scala,19
+Gofore,Kotlin,2339
+Gofore,Vue,692
+Gofore,Python,1383
+Gofore,JavaScript,827
+Gofore,Java,950
+Gofore,C#,3
+Gofore,TypeScript,4547
+Gofore,HTML,331
+Gofore,CSS,10
+LINE Corporation,Java,1031
+LINE Corporation,C,98
+LINE Corporation,Shell,176
+LINE Corporation,Elixir,10
+LINE Corporation,HCL,16
+LINE Corporation,Rust,53
+LINE Corporation,Ruby,11
+LINE Corporation,Vue,2
+LINE Corporation,Scala,3
+LINE Corporation,JavaScript,136
+LINE Corporation,Jupyter Notebook,1
+LINE Corporation,C++,59
+LINE Corporation,Python,170
+LINE Corporation,Kotlin,410
+LINE Corporation,Go,161
+LINE Corporation,C#,22
+LINE Corporation,TypeScript,217
+LINE Corporation,HTML,52
+LINE Corporation,Swift,42
+LINE Corporation,R,2
+LINE Corporation,CSS,11
+LINE Corporation,Erlang,1
+LINE Corporation,Dart,32
+LINE Corporation,CMake,2
+LINE Corporation,Emacs Lisp,17
+LINE Corporation,Dockerfile,12
+Synopsys,PowerShell,111
+Synopsys,TypeScript,1429
+Synopsys,Java,1880
+Synopsys,Shell,128
+Synopsys,Groovy,52
+Synopsys,JavaScript,12
+Synopsys,HTML,5
+Synopsys,Python,94
+Synopsys,C++,90
+Synopsys,Ruby,86
+Synopsys,Mustache,3
+Synopsys,C,776
+Synopsys,C#,36
+Synopsys,Go,6
+Synopsys,Makefile,15
+The Guardian,TypeScript,1827
+The Guardian,Python,117
+The Guardian,JavaScript,257
+The Guardian,Batchfile,17
+The Guardian,SCSS,53
+The Guardian,CSS,272
+The Guardian,Scala,3538
+The Guardian,Thrift,28
+The Guardian,HTML,1
+The Guardian,Emacs Lisp,1
+Made Tech,TypeScript,4017
+Made Tech,HTML,88
+Made Tech,Java,854
+Made Tech,SCSS,12
+Made Tech,Go,1
+Made Tech,Ruby,11
+Made Tech,C#,118
+Made Tech,JavaScript,2301
+Made Tech,HCL,108
+Made Tech,CSS,27
+Made Tech,Rust,1
+Made Tech,Python,674
+Made Tech,Kotlin,316
+Fujitsu,Python,1557
+Fujitsu,C++,52
+Fujitsu,Dockerfile,31
+Fujitsu,JavaScript,1
+Fujitsu,C,1903
+Fujitsu,Java,149
+Fujitsu,Go,84
+Fujitsu,Perl,4
+Fujitsu,C#,1
+Fujitsu,TypeScript,174
+Fujitsu,Lua,20
+Fujitsu,Shell,12
+Fujitsu,HTML,48
+Fujitsu,PowerShell,184
+Fujitsu,BitBake,1295
+Fujitsu,HCL,4
+Fujitsu,XSLT,1
+ClickHouse,HTML,119
+ClickHouse,Clojure,1
+ClickHouse,Go,104
+ClickHouse,Java,83
+ClickHouse,Jinja,49
+ClickHouse,C,9
+ClickHouse,Lua,2
+ClickHouse,C++,6746
+ClickHouse,JavaScript,124
+ClickHouse,Mustache,5
+ClickHouse,Python,153
+ClickHouse,TypeScript,23
+ClickHouse,Rust,1
+ClickHouse,Shell,1
+Univention,Python,14386
+Univention,C,8
+Univention,Shell,11
+Vaadin,HTML,70
+Vaadin,SCSS,219
+Vaadin,Java,8974
+Vaadin,TypeScript,225
+Vaadin,Kotlin,940
+Vaadin,JavaScript,411
+Vaadin,C++,3
+Vaadin,Groovy,17
+Vaadin,CSS,109
+SBK Kontur,Java,115
+SBK Kontur,C++,2
+SBK Kontur,Jupyter Notebook,7
+SBK Kontur,HTML,30
+SBK Kontur,Kotlin,2
+SBK Kontur,Go,213
+SBK Kontur,Python,28
+SBK Kontur,Shell,1
+SBK Kontur,C#,959
+SBK Kontur,TypeScript,1092
+SBK Kontur,Dockerfile,3
+Digital Asset,Haskell,1682
+Digital Asset,Scala,3916
+Digital Asset,TypeScript,131
+Digital Asset,Python,136
+Digital Asset,JavaScript,59
+Digital Asset,Nix,1204
+Digital Asset,Java,17
+Digital Asset,Shell,2
+Centreon,Perl,1843
+Centreon,Rust,1
+Centreon,C++,4
+Centreon,PHP,11254
+Centreon,JavaScript,27
+Centreon,TypeScript,3
+Docker,Go,1492
+Docker,Starlark,17
+Docker,C#,9
+Docker,OCaml,3
+Docker,HTML,1099
+Docker,Python,67
+Docker,PowerShell,9
+Docker,SCSS,24
+Docker,Makefile,11
+Docker,Smarty,2
+Docker,Ruby,5
+Docker,Perl,15533
+Docker,Dockerfile,421
+Docker,JavaScript,111
+Docker,TypeScript,9
+Docker,C++,4
+Docker,Batchfile,1
+Docker,Shell,10668
+Docker,Rust,12
+Docker,Groovy,12
+Docker,C,2
+Kaltura,Swift,64
+Kaltura,C#,142
+Kaltura,Kotlin,23
+Kaltura,Go,1
+Kaltura,PHP,1308
+Kaltura,Shell,70
+Kaltura,TypeScript,774
+Kaltura,Python,63
+Kaltura,Ruby,7
+Kaltura,JavaScript,1206
+Kaltura,C,149
+Kaltura,Java,196
+Zalando,TypeScript,24
+Zalando,Go,3992
+Zalando,Python,77
+Zalando,Scala,18
+Zalando,Java,474
+Zalando,SCSS,42
+Zalando,PHP,5
+Zalando,HTML,1
+Zalando,Ruby,3
+Zalando,CSS,93
+Zalando,Kotlin,34
+Zalando,C,1
+Zalando,Rust,31
+Zalando,TeX,57
+Zalando,Lua,6
+Zalando,Shell,3
+Zalando,JavaScript,6
+Giant Swarm,Shell,620
+Giant Swarm,Starlark,66
+Giant Swarm,HTML,1324
+Giant Swarm,JavaScript,7
+Giant Swarm,Go,5621
+Giant Swarm,Mustache,1916
+Giant Swarm,Smarty,1491
+Giant Swarm,Jsonnet,212
+Giant Swarm,TypeScript,63
+Giant Swarm,HCL,49
+Giant Swarm,Makefile,2062
+Giant Swarm,Python,1383
+Giant Swarm,Dockerfile,13
+Lyft,Java,94
+Lyft,Python,819
+Lyft,Jupyter Notebook,19
+Lyft,Go,948
+Lyft,Starlark,1
+Lyft,JavaScript,2
+Lyft,TypeScript,17
+Lyft,Emacs Lisp,2
+Lyft,Ruby,1
+Lyft,Scala,36
+Lyft,C++,112
+Lyft,Shell,32
+Lyft,Swift,2
+Lyft,Rust,5
+Lyft,C#,1
+BJISS,Python,383
+BJISS,Java,17
+BJISS,C#,785
+BJISS,JavaScript,8
+BJISS,Scala,1
+BJISS,HCL,1
+BJISS,Rust,2
+BJISS,Go,12
+BJISS,TypeScript,2813
+BJISS,Shell,5
+BJISS,PowerShell,1
+Truss Works,JavaScript,305
+Truss Works,Dockerfile,32
+Truss Works,Shell,16
+Truss Works,TypeScript,520
+Truss Works,SCSS,8
+Truss Works,Python,151
+Truss Works,HCL,256
+Truss Works,Go,5951
+SmartBear,Ruby,1262
+SmartBear,Objective-C,320
+SmartBear,C#,150
+SmartBear,PHP,19
+SmartBear,Shell,46
+SmartBear,Makefile,9
+SmartBear,Gherkin,1
+SmartBear,Java,190
+SmartBear,C++,99
+SmartBear,Dart,40
+SmartBear,C,5
+SmartBear,TypeScript,1107
+SmartBear,Go,432
+SmartBear,JavaScript,620
+SmartBear,Kotlin,1266
+SmartBear,Rust,835
+SmartBear,CSS,6
+SmartBear,HTML,160
+SmartBear,Python,24
+SmartBear,Objective-C++,65
+SmartBear,Mustache,7
+SmartBear,LLVM,2
+RStudio,R,1067
+RStudio,Smarty,73
+RStudio,Java,1298
+RStudio,JavaScript,1760
+RStudio,HTML,252
+RStudio,TeX,5
+RStudio,C++,129
+RStudio,Python,617
+RStudio,PowerShell,6
+RStudio,Lua,12
+RStudio,Jupyter Notebook,52
+RStudio,TypeScript,1157
+RStudio,SCSS,67
+RStudio,Shell,44
+RStudio,C,172
+RStudio,Dockerfile,375
+RStudio,CSS,1
+RStudio,Rust,2
+Scality,Python,766
+Scality,TypeScript,339
+Scality,Go,10
+Scality,Java,85
+Scality,C++,5
+Scality,JavaScript,7210
+Scality,Rust,1
+Scality,SaltStack,1485
+Renesas,Python,53
+Renesas,BitBake,178
+Renesas,HTML,8
+Renesas,C++,1
+Renesas,Shell,385
+Renesas,C,1148
+Renesas,Lua,52
+Renesas,Java,33
+Renesas,JavaScript,8
+Renesas,RobotFramework,6
+Renesas,TypeScript,8
+Renesas,C#,1
+Solita,JavaScript,177
+Solita,TypeScript,1140
+Solita,C++,1
+Solita,Clojure,4189
+Solita,Kotlin,2000
+Solita,HCL,3
+Solita,Rust,3
+Solita,Python,9
+Solita,Go,37
+Solita,Java,340
+Solita,HTML,66
+Solita,C,3
+Solita,Dockerfile,1
+Solita,Svelte,538
+STMicroelectronics,C,3927
+STMicroelectronics,Java,161
+STMicroelectronics,C++,87
+STMicroelectronics,CSS,45
+STMicroelectronics,NASL,58
+STMicroelectronics,BitBake,2
+STMicroelectronics,JavaScript,12
+STMicroelectronics,TypeScript,10
+STMicroelectronics,Makefile,40
+STMicroelectronics,Python,126
+STMicroelectronics,Shell,25
+STMicroelectronics,Rust,1
+Spotify,C++,251
+Spotify,Go,43
+Spotify,SCSS,76
+Spotify,Rich Text Format,3
+Spotify,Python,4
+Spotify,Shell,1
+Spotify,Swift,15
+Spotify,Makefile,2
+Spotify,C,2
+Spotify,TypeScript,1836
+Spotify,Rust,4
+Spotify,HTML,1
+Spotify,Java,174
+Spotify,JavaScript,16
+Spotify,R,9
+Spotify,Kotlin,1
+Spotify,Jupyter Notebook,1
+Philips,C#,860
+Philips,TeX,2
+Philips,Batchfile,141
+Philips,Smarty,352
+Philips,R,39
+Philips,Dockerfile,35
+Philips,HCL,9
+Philips,HTML,35
+Philips,Python,115
+Philips,Java,51
+Philips,Shell,94
+Philips,TypeScript,505
+Philips,BitBake,2
+Philips,C,225
+Philips,JavaScript,160
+Philips,Go,240
+Philips,C++,331
+Acsone,JavaScript,459
+Acsone,Shell,66
+Acsone,CSS,2
+Acsone,Go,1
+Acsone,Python,8392
+Acsone,Jinja,70
+Acsone,TypeScript,9
+Acsone,HTML,809
+Facebook,Rust,52
+Facebook,Java,73
+Facebook,Makefile,2
+Facebook,Kotlin,1
+Facebook,JavaScript,239
+Facebook,OCaml,30
+Facebook,TypeScript,37
+Facebook,Haskell,7
+Facebook,C,76
+Facebook,Python,2023
+Facebook,C++,682
+Facebook,Ruby,4
+Facebook,HTML,1
+Facebook,Shell,1
+Facebook,Swift,3
+Facebook,Jupyter Notebook,1
+Facebook,Boogie,13
+Citrix Systems,Dockerfile,47
+Citrix Systems,Python,260
+Citrix Systems,C#,157
+Citrix Systems,Shell,180
+Citrix Systems,Go,111
+Citrix Systems,Ruby,8
+Citrix Systems,C++,23
+Citrix Systems,Roff,4
+Citrix Systems,Java,1
+Citrix Systems,OCaml,1086
+Citrix Systems,HTML,24
+Citrix Systems,Lua,1
+Citrix Systems,C,1794
+Citrix Systems,Mustache,61
+Citrix Systems,PowerShell,3
+FARFETCH,Go,30
+FARFETCH,C#,643
+FARFETCH,TypeScript,16
+FARFETCH,Lua,33
+FARFETCH,Scala,1
+FARFETCH,Ruby,1
+FARFETCH,JavaScript,1191
+FARFETCH,HTML,2
+FARFETCH,Smarty,1
+FARFETCH,Python,143
+FARFETCH,Svelte,3
+Puppet,HCL,1
+Puppet,Clojure,1295
+Puppet,C++,9
+Puppet,Groff,33
+Puppet,Ruby,4186
+Puppet,PowerShell,113
+Puppet,Dockerfile,50
+Puppet,JavaScript,10
+Puppet,Go,12
+Puppet,HTML,26
+Puppet,Puppet,278
+Puppet,Java,1
+Buro Happold,C#,5790
+Buro Happold,Python,461
+Buro Happold,JavaScript,15
+Buro Happold,TypeScript,1
+Adguard,Python,18504
+Adguard,TypeScript,2129
+Adguard,JavaScript,11099
+Adguard,Adblock Filter List,1288
+Adguard,Go,1639
+Adguard,C++,143
+Adguard,Swift,61
+Adguard,C,1
+Open Robotics,JavaScript,57
+Open Robotics,CMake,191
+Open Robotics,Dockerfile,25
+Open Robotics,EmberScript,33
+Open Robotics,Rust,115
+Open Robotics,Shell,1
+Open Robotics,Batchfile,1
+Open Robotics,Python,983
+Open Robotics,TypeScript,31
+Open Robotics,Ruby,855
+Open Robotics,Go,3
+Open Robotics,C++,3609
+Open Robotics,C,41
+Open Robotics,TeX,5
+Open Robotics,HTML,5
+eBay,TypeScript,251
+eBay,Rust,108
+eBay,HTML,58
+eBay,C++,531
+eBay,JavaScript,918
+eBay,Go,94
+eBay,Ruby,1
+eBay,C,2
+eBay,Swift,1
+eBay,Java,212
+eBay,PHP,6
+eBay,Dart,1
+eBay,Scala,733
+eBay,Python,5
+eBay,C#,1
+Reaktor,HTML,8
+Reaktor,Swift,15
+Reaktor,Ruby,21
+Reaktor,Rust,25
+Reaktor,Python,90
+Reaktor,Kotlin,1
+Reaktor,Go,2
+Reaktor,CSS,8
+Reaktor,Java,506
+Reaktor,JavaScript,573
+Reaktor,Jinja,2
+Reaktor,TypeScript,5045
+Reaktor,Scala,3889
+Reaktor,Clojure,6
+Reaktor,Shell,79
+ArangoDB,C++,9928
+ArangoDB,Java,566
+ArangoDB,TypeScript,352
+ArangoDB,JavaScript,25
+ArangoDB,Scala,120
+ArangoDB,Go,507
+ArangoDB,Shell,48
+ArangoDB,CSS,583
+LunarG,Makefile,6
+LunarG,JavaScript,16
+LunarG,C,1380
+LunarG,TeX,12
+LunarG,C++,10154
+Dimagi,Kotlin,6
+Dimagi,Shell,3
+Dimagi,Python,14787
+Dimagi,C++,2
+Dimagi,JavaScript,92
+Dimagi,Java,242
+Deutsche Bahn,TypeScript,697
+Deutsche Bahn,Groovy,68
+Deutsche Bahn,PowerShell,45
+Deutsche Bahn,JSON,36
+Deutsche Bahn,C#,19
+Deutsche Bahn,Dockerfile,8
+Deutsche Bahn,C++,43
+Deutsche Bahn,HTML,109
+Deutsche Bahn,Python,350
+Deutsche Bahn,Vue,198
+Deutsche Bahn,SCSS,52
+Deutsche Bahn,Swift,5
+Deutsche Bahn,Handlebars,50
+Deutsche Bahn,Go,161
+Deutsche Bahn,JavaScript,18
+Deutsche Bahn,Rust,1
+Deutsche Bahn,Shell,10
+Deutsche Bahn,CSS,6
+Deutsche Bahn,Java,21
+Deutsche Bahn,Kotlin,2
+Cockroachlabs,TypeScript,8
+Cockroachlabs,Go,736
+Cockroachlabs,HTML,51
+Cockroachlabs,C#,1
+Cockroachlabs,Mustache,2
+Kainos Group,HTML,496
+Kainos Group,HCL,103
+Kainos Group,Makefile,20
+Kainos Group,Go,2
+Kainos Group,Mustache,10
+Kainos Group,Python,4
+Kainos Group,Nunjucks,18
+Kainos Group,PowerShell,1
+Kainos Group,Shell,181
+Kainos Group,Java,411
+Kainos Group,JavaScript,1785
+Kainos Group,CSS,40
+Kainos Group,Groovy,21
+Kainos Group,TypeScript,17
+Nextcloud,Swift,325
+Nextcloud,Vue,514
+Nextcloud,JavaScript,14097
+Nextcloud,HTML,194
+Nextcloud,Objective-C,713
+Nextcloud,Kotlin,1383
+Nextcloud,TypeScript,41
+Nextcloud,PHP,8865
+Nextcloud,PureBasic,176
+Nextcloud,Dart,434
+Nextcloud,Java,3338
+Nextcloud,C++,3969
+Nextcloud,Python,860
+Nextcloud,Makefile,22
+Nextcloud,SCSS,43
+Nextcloud,Shell,1
+Expedia Group,Kotlin,54
+Expedia Group,Go,63
+Expedia Group,Ruby,5
+Expedia Group,HTML,2
+Expedia Group,Makefile,3
+Expedia Group,Groovy,1
+Expedia Group,Java,454
+Expedia Group,Python,71
+Expedia Group,JavaScript,256
+Expedia Group,HCL,210
+Expedia Group,Shell,38
+Expedia Group,TypeScript,715
+Expedia Group,Emacs Lisp,4
+Expedia Group,Mustache,1
+Expedia Group,Swift,68
+Expedia Group,C#,34
+Expedia Group,Scala,9
+Expedia Group,Lua,6
+Expedia Group,CoffeeScript,1
+plentymarkets,C,1
+plentymarkets,JavaScript,1113
+plentymarkets,TypeScript,1
+plentymarkets,Java,4
+plentymarkets,PHP,671
+plentymarkets,Vue,73
+plentymarkets,Go,19
+plentymarkets,Dart,1
+plentymarkets,CSS,87
+plentymarkets,HCL,1
+CloudBees,Smarty,57
+CloudBees,Perl,7
+CloudBees,Dockerfile,14
+CloudBees,Shell,266
+CloudBees,Java,1739
+CloudBees,Ruby,1
+CloudBees,Groovy,171
+CloudBees,Go,43
+CloudBees,JavaScript,11
+CloudBees,TypeScript,2
+CloudBees,HTML,179
+CloudBees,Makefile,72
+HERE Technologies,Java,1890
+HERE Technologies,Jupyter Notebook,2
+HERE Technologies,Shell,7
+HERE Technologies,TypeScript,140
+HERE Technologies,Scala,33
+HERE Technologies,Ruby,1
+HERE Technologies,Kotlin,35
+HERE Technologies,Python,58
+HERE Technologies,C++,309
+HERE Technologies,Rust,15
+HERE Technologies,Dart,1
+HERE Technologies,JavaScript,30
+Linagora,Dart,3005
+Linagora,Vue,439
+Linagora,Python,67
+Linagora,Dockerfile,27
+Linagora,Makefile,13
+Linagora,Java,3478
+Linagora,Scala,52
+Linagora,TypeScript,239
+Linagora,Shell,181
+Linagora,JavaScript,97
+Linagora,SCSS,4
+Infragistics,TypeScript,1505
+Infragistics,JavaScript,161
+Wire,Haskell,4330
+Wire,TypeScript,1200
+Wire,Shell,9
+Wire,Makefile,47
+Wire,HTML,42
+Wire,Kotlin,2126
+Wire,HCL,160
+Wire,Objective-C,14
+Wire,Java,24
+Wire,C,247
+Wire,Nix,22
+Wire,Scala,52
+Wire,Groovy,3
+Wire,Rust,210
+Wire,Swift,1008
+Verizon Media,Jupyter Notebook,50
+Verizon Media,Ruby,97
+Verizon Media,TypeScript,2
+Verizon Media,Scala,73
+Verizon Media,Shell,12
+Verizon Media,HTML,219
+Verizon Media,HCL,17
+Verizon Media,Makefile,3
+Verizon Media,Dart,4
+Verizon Media,JavaScript,121
+Verizon Media,Python,130
+Verizon Media,Go,24
+Verizon Media,Objective-C,4
+Verizon Media,C#,2
+Verizon Media,SCSS,2
+Verizon Media,Java,578
+Verizon Media,C++,39
+Verizon Media,C,1
+Bitrise,Shell,2
+Bitrise,CSS,2
+Bitrise,Java,54
+Bitrise,Rust,5
+Bitrise,Go,1037
+Bitrise,Swift,24
+Bitrise,JavaScript,257
+Bitrise,Kotlin,44
+Bitrise,TypeScript,1
+Bitrise,HTML,325
+Bitrise,Objective-C,38
+Bitrise,Ruby,18
+Algolia,Go,465
+Algolia,JavaScript,55
+Algolia,Dart,12
+Algolia,TypeScript,626
+Algolia,PHP,1640
+Algolia,Java,123
+Algolia,Swift,50
+Algolia,Scala,7
+Algolia,HTML,1
+Algolia,Python,272
+Algolia,Smarty,33
+Algolia,C#,10
+Algolia,Kotlin,163
+Algolia,Ruby,23
+StreamNative,JavaScript,11
+StreamNative,Java,2220
+StreamNative,Scala,51
+StreamNative,Jinja,11
+StreamNative,Go,316
+StreamNative,HCL,92
+StreamNative,Rust,29
+StreamNative,Smarty,449
+StreamNative,Dockerfile,72
+StreamNative,Shell,1
+Balena,BitBake,989
+Balena,ASL,99
+Balena,C++,15
+Balena,HTML,326
+Balena,Rust,178
+Balena,Lua,200
+Balena,Smarty,56
+Balena,Shell,2893
+Balena,C,105
+Balena,PHP,177
+Balena,Python,97
+Balena,RobotFramework,38
+Balena,Makefile,227
+Balena,Dockerfile,540
+Balena,CoffeeScript,1317
+Balena,TypeScript,2229
+Balena,JavaScript,398
+Balena,Go,209
+Graylog,Shell,110
+Graylog,Go,111
+Graylog,Python,46
+Graylog,Dockerfile,23
+Graylog,Java,12695
+Graylog,JavaScript,151
+eXo Platform,JavaScript,4483
+eXo Platform,Vue,2173
+eXo Platform,Less,3130
+eXo Platform,Java,85405
+eXo Platform,Swift,163
+eXo Platform,Groovy,233
+eXo Platform,HTML,1541
+eXo Platform,Batchfile,62
+eXo Platform,Shell,3097
+eXo Platform,Dockerfile,6
+Iohk,Scala,3
+Iohk,Nix,80
+Iohk,Rust,31
+Iohk,PureScript,17
+Iohk,Haskell,434
+Iohk,TypeScript,99
+Iohk,TeX,5
+Iohk,Perl,4
+Iohk,JavaScript,6
+Pantheon Ventures,Shell,120
+Pantheon Ventures,C++,71
+Pantheon Ventures,Go,14
+Pantheon Ventures,PHP,1281
+Pantheon Ventures,JavaScript,2453
+Pantheon Ventures,HTML,45
+Pantheon Ventures,CSS,33
+XWiki SAS,JavaScript,236
+XWiki SAS,Shell,60
+XWiki SAS,Python,1
+XWiki SAS,Dockerfile,4
+XWiki SAS,HTML,41
+XWiki SAS,CSS,38
+XWiki SAS,Less,1
+XWiki SAS,Java,3091
+H2O.ai,Python,1379
+H2O.ai,Scala,115
+H2O.ai,JavaScript,1
+H2O.ai,Jupyter Notebook,2094
+H2O.ai,CoffeeScript,12
+H2O.ai,C++,6
+H2O.ai,Shell,1
+H2O.ai,TypeScript,1
+H2O.ai,Java,14
+H2O.ai,Go,12
+Akvelon,Java,2796
+Akvelon,C#,226
+Akvelon,Dart,23
+Akvelon,PowerShell,11
+Akvelon,Shell,4
+Akvelon,Objective-C,34
+Akvelon,HTML,111
+Akvelon,JavaScript,3
+Akvelon,TypeScript,351
+Softwire,C#,78
+Softwire,HCL,16
+Softwire,JavaScript,2449
+Softwire,reStructuredText,1
+Softwire,Ruby,2253
+Softwire,Jupyter Notebook,13
+Softwire,Python,1
+Lablup,C++,9
+Lablup,Python,4233
+Lablup,Jupyter Notebook,12
+Lablup,HTML,1
+Lablup,Dockerfile,27
+Lablup,Rust,18
+Lablup,TypeScript,1305
+Mellanox Technologies,P4,3
+Mellanox Technologies,Python,57
+Mellanox Technologies,Shell,2
+Mellanox Technologies,C++,24
+Mellanox Technologies,Go,8
+Mellanox Technologies,C,1402
+DigitalOcean,Emacs Lisp,12
+DigitalOcean,Shell,170
+DigitalOcean,Smarty,4
+DigitalOcean,Ruby,6
+DigitalOcean,Python,224
+DigitalOcean,C++,34
+DigitalOcean,Go,296
+DigitalOcean,Nix,34
+DigitalOcean,Dockerfile,1
+DigitalOcean,JavaScript,17
+DigitalOcean,C,23
+DigitalOcean,Rust,1
+DigitalOcean,HCL,9
+CKSource,HTML,1
+CKSource,PHP,1
+CKSource,TypeScript,34
+CKSource,Rich Text Format,4
+CKSource,JavaScript,4243
+CKSource,Blade,5
+The Dextrous Web,TypeScript,7353
+The Dextrous Web,Kotlin,959
+The Dextrous Web,C#,1
+The Dextrous Web,Shell,14
+The Dextrous Web,HCL,212
+The Dextrous Web,PHP,201
+The Dextrous Web,Ruby,5096
+The Dextrous Web,Python,1975
+The Dextrous Web,JavaScript,94
+The Dextrous Web,HTML,484
+The Dextrous Web,XSLT,73
+Belledonne Communications,C++,1224
+Belledonne Communications,C,241
+Belledonne Communications,JavaScript,5
+Belledonne Communications,Kotlin,318
+Belledonne Communications,PHP,90
+Belledonne Communications,CMake,560
+Belledonne Communications,Objective-C,195
+Databricks,Python,124
+Databricks,HTML,9
+Databricks,C++,6
+Databricks,Scala,678
+Databricks,JavaScript,16
+Databricks,Go,4
+D2L,JavaScript,1711
+D2L,Shell,7
+D2L,C#,64
+D2L,Go,295
+D2L,SCSS,19
+OCTO Technology,JavaScript,1686
+OCTO Technology,SCSS,46
+OCTO Technology,Rust,2
+OCTO Technology,Shell,61
+OCTO Technology,Python,3
+OCTO Technology,Kotlin,1
+OCTO Technology,Java,122
+OCTO Technology,TypeScript,124
+OCTO Technology,CSS,8
+OCTO Technology,Haskell,27
+OCTO Technology,Jinja,1
+Yoast,Python,3
+Yoast,PHP,199
+Yoast,JavaScript,2618
+Grafana,Jsonnet,2
+Grafana,Go,209
+Grafana,Kotlin,1
+Grafana,Python,72
+Grafana,JavaScript,8
+Grafana,TypeScript,225
+Grafana,Rust,4
+Grafana,Java,1
+Sonarsource,JavaScript,39
+Sonarsource,PHP,2
+Sonarsource,TypeScript,36
+Sonarsource,Mustache,3
+Sonarsource,Java,185
+Sonarsource,C#,214
+Sonarsource,Kotlin,20
+Sonarsource,Python,20
+Sonarsource,Shell,1
+Optum,HTML,98
+Optum,TypeScript,81
+Optum,Haskell,2
+Optum,Python,32
+Optum,Java,66
+Optum,Shell,5
+Optum,Batchfile,19
+Optum,CSS,2
+Optum,Scala,52
+Optum,C,15
+Optum,Ruby,4
+Optum,JavaScript,4
+Optum,Go,73
+Optum,Emacs Lisp,9
+Optum,Jupyter Notebook,3
+Optum,C#,6
+Optum,PowerShell,2
+Financial Times,Java,1
+Financial Times,Shell,1
+Financial Times,Go,561
+Financial Times,Mustache,1
+Financial Times,CSS,1
+Financial Times,JavaScript,155
+Financial Times,Python,2
+Alliander,Shell,4
+Alliander,Jupyter Notebook,6
+Alliander,Mustache,126
+Alliander,TypeScript,56
+Alliander,Java,115
+Alliander,C++,389
+Alliander,Python,363
+Alliander,RobotFramework,11
+Alliander,JavaScript,27
+Bootlin,Makefile,658
+Bootlin,TeX,863
+Bootlin,BitBake,26
+Bootlin,Shell,9
+Bootlin,C,1037
+Bootlin,Python,1034
+Bootlin,C++,1
+LabKey,JavaScript,554
+LabKey,Java,291
+LabKey,Python,27
+LabKey,Dockerfile,4
+LabKey,Shell,21
+LabKey,Groovy,148
+LabKey,TypeScript,4382
+LabKey,R,33
+Maykin Media,Python,8202
+Maykin Media,Jinja,1
+Maykin Media,JavaScript,1644
+Maykin Media,HTML,4
+VTEX,JavaScript,74
+VTEX,CoffeeScript,29
+VTEX,Go,2
+VTEX,TypeScript,2039
+Enalean,Dockerfile,3
+Enalean,HTML,2
+Enalean,Nix,21
+Enalean,Java,21
+Enalean,TypeScript,2
+Enalean,PHP,5743
+Enalean,SCSS,121
+Enalean,C,1
+Twitter,Java,67
+Twitter,Scala,147
+Twitter,Shell,16
+Twitter,JavaScript,14
+Twitter,PHP,7
+Twitter,TypeScript,209
+Twitter,C++,9
+Twitter,Jupyter Notebook,22
+Twitter,Rust,2
+Twitter,SCSS,1
+Twitter,Python,76
+Twitter,Go,19
+Twitter,Clojure,1
+Twitter,C,3
+Cloudfare,C,2
+Cloudfare,TypeScript,9
+Cloudfare,CSS,117
+Cloudfare,JavaScript,2
+Cloudfare,C++,78
+Cloudfare,Go,56
+Cloudfare,HTML,1
+Cloudfare,Rust,31
+Cloudfare,Sage,15
+ZTE,C++,157
+ZTE,Go,117
+ZTE,C,189
+ZTE,Java,67
+ZTE,HTML,79
+ZTE,Rust,2
+ZTE,Python,17
+ZTE,CSS,3
+Pivotal,C,11
+Pivotal,Go,64
+Pivotal,Shell,33
+Pivotal,Starlark,10
+Pivotal,HTML,28
+Pivotal,Dockerfile,6
+Pivotal,Python,2
+Pivotal,Java,81
+Pivotal,Ruby,28
+Pivotal,JavaScript,2
+Pivotal,PowerShell,2
+Goldman Sachs,Shell,2
+Goldman Sachs,TypeScript,38
+Goldman Sachs,CSS,11
+Goldman Sachs,Ruby,15
+Goldman Sachs,Jupyter Notebook,3
+Goldman Sachs,Java,1030
+Goldman Sachs,Go,3
+Shopsys,PHP,3583
+Shopsys,Smarty,3
+Shopsys,Shell,6
+Linutronix,Rust,4
+Linutronix,Shell,1
+Linutronix,BitBake,2
+Linutronix,C,3231
+Linutronix,Perl,1
+Linutronix,Python,61
+Robotis,C#,8
+Robotis,Python,178
+Robotis,C++,64
+Robotis,JavaScript,111
+Robotis,C,2
+CloudCannon,Gherkin,9
+CloudCannon,Rust,2
+CloudCannon,HTML,786
+CloudCannon,Svelte,5
+CloudCannon,CSS,108
+CloudCannon,Nunjucks,3
+CloudCannon,JavaScript,224
+CloudCannon,SCSS,1363
+Atypon,Go,51
+Atypon,Python,60
+Atypon,TypeScript,1358
+Atypon,Scala,9
+Atypon,TeX,3
+Exoplatform,HTML,10
+Exoplatform,Batchfile,2
+Exoplatform,Swift,1
+Exoplatform,JavaScript,66
+Exoplatform,Java,1314
+Exoplatform,Less,14
+Exoplatform,Shell,19
+Exoplatform,Vue,10
+PlanetScale,HCL,2
+PlanetScale,Ruby,4
+PlanetScale,Go,1765
+PlanetScale,Java,104
+PlanetScale,Shell,89
+PlanetScale,Rich Text Format,2
+PlanetScale,Python,1
+PlanetScale,JavaScript,1
+PlanetScale,TypeScript,8
+Buoyant,CSS,53
+Buoyant,Rust,2821
+Buoyant,JavaScript,430
+Buoyant,Go,1466
+Buoyant,Shell,25
+Buoyant,Dockerfile,15
+Buoyant,HTML,9
+Sony Mobile,Java,625
+Sony Mobile,C,35
+Sony Mobile,C++,9
+Qt,Java,1
+Qt,Shell,7
+Qt,C,2
+Qt,Python,14
+Qt,C++,371
+Qt,Perl,36
+Qt,QML,2
+Kakao,Python,64
+Kakao,TypeScript,2
+Kakao,Java,92
+Kakao,CSS,48
+Kakao,Go,48
+Kakao,Swift,88
+Kakao,Objective-C,16
+Kakao,Dart,3
+Kakao,HTML,2
+Kakao,Shell,1
+Kakao,Vue,1
+Kakao,JavaScript,18
+Kakao,Kotlin,23
+Kakao,SCSS,22
+Kakao,HCL,1
+Alfresco,TypeScript,395
+Alfresco,Jinja,40
+Alfresco,Swift,2
+Alfresco,Java,569
+Alfresco,Smarty,166
+Alfresco,Kotlin,4
+Alfresco,Shell,28
+Alfresco,Dockerfile,4
+Alfresco,JavaScript,9
+Alfresco,Python,2
+Luxoft,Java,18
+Luxoft,JavaScript,64
+Luxoft,Python,4
+Luxoft,Go,443
+Luxoft,Shell,5
+Luxoft,C++,726
+datavisyn,Jupyter Notebook,108
+datavisyn,TypeScript,645
+datavisyn,JavaScript,81
+datavisyn,Python,20
+itemis,Shell,39
+itemis,Racket,12
+itemis,JetBrains MPS,20
+itemis,Kotlin,247
+itemis,Emacs Lisp,14
+itemis,Go,1
+itemis,Java,1107
+itemis,Xtend,113
+Cozy Cloud,JavaScript,5055
+Cozy Cloud,Go,417
+Cozy Cloud,HTML,59
+Cozy Cloud,Python,59
+Cozy Cloud,SCSS,1
+Cozy Cloud,Elixir,15
+Cozy Cloud,Objective-C,1
+Cozy Cloud,TypeScript,265
+Cozy Cloud,Handlebars,12
+Cozy Cloud,Shell,2
+Lightcurve,TypeScript,1546
+Lightcurve,JavaScript,2505
+Lightcurve,Python,20
+Silverstripe,Twig,82
+Silverstripe,JavaScript,540
+Silverstripe,CSS,1
+Silverstripe,PHP,1879
+Silverstripe,Dockerfile,27
+Silverstripe,SCSS,12
+Silverstripe,Scheme,9
+Endless OS,C,243
+Endless OS,HTML,1
+Endless OS,JavaScript,3
+Endless OS,SCSS,1
+Azavea,C++,1
+Azavea,Java,4
+Azavea,Python,303
+Azavea,TypeScript,10
+Azavea,CSS,2
+Azavea,JavaScript,43
+Azavea,HCL,34
+Azavea,HTML,25
+Azavea,Shell,1
+JuliaHub,C,1
+JuliaHub,C++,27
+JuliaHub,Jupyter Notebook,2
+JuliaHub,Julia,22597
+iXsystems,C,1338
+iXsystems,Python,39
+iXsystems,Go,7
+iXsystems,Cython,15
+iXsystems,HTML,1226
+Index Data,Java,600
+Index Data,Jinja,72
+Index Data,JavaScript,4252
+Index Data,Perl,60
+Index Data,RAML,18
+Index Data,mIRC Script,3
+Index Data,Gherkin,1
+Index Data,Dockerfile,75
+Index Data,C,19
+Index Data,C++,14
+Index Data,Groovy,48
+Index Data,PLpgSQL,1
+WarnerMedia,Java,25
+WarnerMedia,Python,189
+WarnerMedia,Go,22
+WarnerMedia,Scala,3
+WarnerMedia,TypeScript,4
+Tensor,TypeScript,371
+Tensor,JavaScript,31
+Tensor,Python,115
+Tensor,Jupyter Notebook,4
+OnGres,Java,1991
+OnGres,Dockerfile,27
+OnGres,JavaScript,4
+Travis CI,Stylus,29
+Travis CI,TypeScript,101
+Travis CI,CSS,25
+Travis CI,Procfile,2
+Travis CI,HTML,373
+Travis CI,Ruby,839
+Travis CI,Fortran,169
+Travis CI,Java,34
+Travis CI,TeX,7
+Travis CI,PHP,9
+Travis CI,C++,381
+Travis CI,Vue,59
+Travis CI,Go,47
+Travis CI,Python,166
+Travis CI,C,5
+Travis CI,JavaScript,1809
+Travis CI,Shell,67
+Travis CI,Julia,125
+Travis CI,Groovy,101
+Travis CI,Mustache,46
+Travis CI,C#,1
+Travis CI,Nunjucks,2
+Travis CI,Scala,1
+PTFS Europe,Perl,3168
+PTFS Europe,PHP,37
+PTFS Europe,Dockerfile,5
+PTFS Europe,SCSS,2
+Digital Bazaar,HTML,1564
+Digital Bazaar,JavaScript,2692
+Digital Bazaar,Vue,44
+Digital Bazaar,XSLT,14
+Rackspace Technology,Scala,5
+Rackspace Technology,HCL,12
+Rackspace Technology,Go,3
+Rackspace Technology,HTML,6
+Rackspace Technology,Jinja,5
+Rackspace Technology,PowerShell,19
+Rackspace Technology,TypeScript,23
+Rackspace Technology,Java,2
+Rackspace Technology,Python,164
+Rackspace Technology,Jupyter Notebook,4
+Rackspace Technology,Clojure,1
+Rackspace Technology,Shell,10
+Rackspace Technology,Ruby,2
+Chef,Erlang,174
+Chef,Rust,329
+Chef,HTML,13
+Chef,Shell,2
+Chef,Ruby,1356
+Chef,Dockerfile,12
+Chef,Go,1078
+Chef,TypeScript,11
+Infosys,JavaScript,4
+Infosys,LookML,3
+Infosys,HTML,1
+Infosys,C,316
+Infosys,Python,7
+Infosys,C++,1
+Infosys,Java,1
+Infosys,TypeScript,75
+Test.com,HTML,238
+Test.com,C++,25
+Test.com,HCL,42
+Test.com,Java,22
+Test.com,TypeScript,39
+Test.com,Nix,2
+Test.com,Python,40
+Test.com,Shell,1
+Test.com,Rust,3
+Test.com,C,8
+Test.com,Go,11
+Test.com,C#,13
+Opencast Software,HTML,2
+Opencast Software,Scala,590
+Opencast Software,HCL,2
+Opencast Software,Java,44
+Opencast Software,JavaScript,1
+Plotly,HTML,9
+Plotly,JavaScript,379
+Plotly,Python,465
+Plotly,Jupyter Notebook,88
+Eficent,HTML,173
+Eficent,Java,4
+Eficent,Python,389
+Eficent,JavaScript,9
+Pixel & Tonic,PHP,5398
+Pixel & Tonic,JavaScript,25
+Pixel & Tonic,Hack,17
+Pixel & Tonic,SCSS,11
+Pixel & Tonic,Twig,31
+TeamDev,Kotlin,1707
+TeamDev,HCL,15
+TeamDev,Dart,51
+TeamDev,Java,2227
+TeamDev,C#,12
+TeamDev,CSS,26
+Palantir,Go,39
+Palantir,Shell,13
+Palantir,JavaScript,1
+Palantir,TypeScript,6
+Palantir,Groovy,16
+Palantir,Rust,5
+Palantir,CodeQL,1
+Palantir,Java,172
+Binary Group,Perl,346
+Binary Group,Go,1
+Binary Group,Python,1
+Binary Group,HTML,30
+Binary Group,JavaScript,113
+Uninvention,Python,284
+mySociety,PHP,320
+mySociety,Jupyter Notebook,47
+mySociety,Ruby,277
+mySociety,Jinja,20
+mySociety,Shell,1
+mySociety,Perl,3203
+mySociety,HTML,26
+mySociety,Python,471
+mySociety,JavaScript,1
+Bjerk,Go,1
+Bjerk,TypeScript,1036
+Bjerk,JavaScript,175
+Bjerk,Python,3
+Bjerk,Dockerfile,50
+Flywheels,Java,473
+Flywheels,SCSS,1
+Flywheels,C++,167
+ThoughtWorks,Kotlin,4
+ThoughtWorks,HTML,5
+ThoughtWorks,Mustache,1
+ThoughtWorks,Smarty,1
+ThoughtWorks,TypeScript,65
+ThoughtWorks,Ruby,3
+ThoughtWorks,Java,93
+ThoughtWorks,Scala,7
+ThoughtWorks,JavaScript,30
+ThoughtWorks,Shell,3
+ThoughtWorks,PowerShell,8
+ThoughtWorks,Dockerfile,5
+tweag.io,Haskell,18
+tweag.io,Starlark,6
+tweag.io,Rust,76
+tweag.io,PureScript,14
+tweag.io,Nix,8
+tweag.io,C++,4
+tweag.io,Python,4
+Citrix,OCaml,13
+Citrix,C,39
+Citrix,C++,5
+Citrix,Python,1
+Finbourne,Java,2292
+Finbourne,TypeScript,2594
+Finbourne,Mustache,1
+Finbourne,C#,4749
+Finbourne,Python,3914
+Finbourne,Shell,2
+CS Group,Perl,12
+CS Group,GLSL,1
+CS Group,Python,511
+CS Group,JavaScript,5
+CS Group,TypeScript,24
+CS Group,Shell,1
+CS Group,PHP,1
+CS Group,C,40
+CS Group,Java,20
+Nuxeo,Python,1
+Nuxeo,TypeScript,122
+Nuxeo,JavaScript,82
+Nuxeo,Java,19
+Nuxeo,HTML,6
+Scania,JavaScript,1243
+Scania,Go,67
+Scania,Python,5
+Scania,HTML,3
+Scania,PowerShell,3
+Scania,C#,3
+Flatiron School,Ruby,1
+Flatiron School,Python,322
+Flatiron School,Jupyter Notebook,16
+Flatiron School,JavaScript,2
+Galera Cluster,C,2
+Galera Cluster,C++,544
+Nexedi,Python,232
+Nexedi,Go,12
+Nexedi,C,5
+Nexedi,C++,1
+Nexedi,JavaScript,4
+NXP,C,104
+NXP,Python,4
+NXP,C++,26
+NXP,Java,2
+NXP,BitBake,1
+Toucan Toco,TypeScript,233
+Toucan Toco,Python,197
+Toucan Toco,Go,1
+Cozy,JavaScript,138
+Cozy,Go,5
+Cozy,HTML,1
+PTV Group,TypeScript,30
+PTV Group,JavaScript,18
+PTV Group,HTML,1
+PTV Group,C#,63
+PTV Group,Go,142
+PTV Group,Python,2
+PTV Group,Java,4
+PTV Group,C,1
+HotWax,TypeScript,27
+HotWax,Vue,87
+HotWax,Java,2
+JankariTech,PHP,1765
+JankariTech,CSS,105
+JankariTech,Vue,33
+JankariTech,Java,7
+JankariTech,Gherkin,20
+JankariTech,TypeScript,2
+JankariTech,Python,1
+JankariTech,Shell,176
+JankariTech,Starlark,95
+JankariTech,Monkey C,25
+JankariTech,JavaScript,418
+JankariTech,Go,541
+Improbable,JavaScript,58
+Improbable,Python,7
+Improbable,C++,9
+Improbable,Go,4
+Improbable,Ruby,3
+Improbable,Rust,1
+Improbable,C,24
+Improbable,TypeScript,1
+Pantheon,C++,1
+Pantheon,JavaScript,41
+Pantheon,HTML,1
+Pantheon,PHP,38
+Cloudbees,Smarty,10
+Cloudbees,Java,26
+Cloudbees,HTML,3
+Cloudbees,Makefile,1
+Gatsby,JavaScript,295
+Gatsby,TypeScript,47
+Nymea,Python,21
+Nymea,C++,3432
+Nymea,Svelte,24
+Nymea,QML,228
+Nymea,BitBake,3
+Société Générale,JavaScript,92
+Société Générale,Jinja,9
+Société Générale,Java,43
+Société Générale,Python,5
+Société Générale,Go,11
+Golden Dimension,Java,89
+Golden Dimension,TypeScript,24
+Atomist,TypeScript,365
+Atomist,Java,16
+Atomist,Go,98
+Atomist,Clojure,12
+Atomist,JavaScript,103
+Atomist,Dockerfile,27
+Atomist,HTML,2
+Atomist,C#,8
+Atomist,Shell,1
+Andela,JavaScript,328
+Andela,TypeScript,165
+Autonomous,Go,200
+Layer5,Go,1323
+Layer5,HTML,336
+Layer5,JavaScript,462
+Layer5,Makefile,1
+Kinvolk,Go,6
+Kinvolk,TypeScript,4
+Kinvolk,Python,1
+Kinvolk,Shell,62
+Kinvolk,C,30
+The guardian,Python,14
+The guardian,Thrift,1
+The guardian,TypeScript,2
+The guardian,Scala,47
+Devexperts,Java,27
+Devexperts,R,1
+Devexperts,TypeScript,22
+Devexperts,JavaScript,1
+SignalFx,Go,30
+SignalFx,Python,1
+SignalFx,Smarty,13
+eyeo,JavaScript,7
+eyeo,Python,3
+Joyent,Go,23
+Joyent,Shell,1
+Joyent,JavaScript,23
+Julia Computing,Julia,316
+Julia Computing,C++,2
+WolfVision,C++,1
+WolfVision,C,55
+metas,Java,2
+metas,Shell,1
+Origin Energy,SCSS,3
+Origin Energy,JavaScript,7
+Origin Energy,HTML,25
+Indexdata,JavaScript,101
+commercetools,PHP,40
+commercetools,Java,81
+commercetools,HTML,1
+commercetools,JavaScript,2
+commercetools,TypeScript,105
+commercetools,Kotlin,9
+B2CK,Python,2807
+Decred,SCSS,29
+Decred,JavaScript,22
+Decred,CSS,3
+Decred,Go,896
+Decred,Shell,68
+Decred,HTML,8
+Forestry.io,TypeScript,543
+Forestry.io,JavaScript,10
+Infosiftr,Dockerfile,189
+Infosiftr,Shell,3889
+Infosiftr,Go,1
+Infosiftr,Perl,7827
+feenk,Smalltalk,13864
+Abilian,Python,714
+Blockchain Foundry,Dockerfile,1
+Blockchain Foundry,C++,192
+Blockchain Foundry,Go,272
+Blockchain Foundry,Elixir,53
+Intesys,TypeScript,44
+PyUp,HTML,8346
+PyUp,CSS,13463
+PyUp,Roff,98
+PyUp,Shell,28
+PyUp,Common Workflow Language,267
+PyUp,PHP,25
+PyUp,TSQL,33
+PyUp,RobotFramework,9
+PyUp,Python,317787
+PyUp,JavaScript,62601
+PyUp,C++,317
+PyUp,TeX,50
+PyUp,Rust,99
+PyUp,TypeScript,300
+PyUp,XSLT,121
+PyUp,Jinja,796
+PyUp,Makefile,275
+PyUp,YARA,334
+PyUp,Go,4
+PyUp,HCL,44
+PyUp,Erlang,36
+PyUp,Jupyter Notebook,14608
+PyUp,C,21
+PyUp,SCSS,22
+PyUp,Dockerfile,86
+Renovateapp,TypeScript,31503
+Renovateapp,Python,22512
+Renovateapp,Kotlin,1012
+Renovateapp,Dockerfile,791
+Renovateapp,Ruby,3078
+Renovateapp,C++,289
+Renovateapp,Scala,29
+Renovateapp,Objective-C,2
+Renovateapp,Markdown,3
+Renovateapp,Handlebars,1
+Renovateapp,Riot,3
+Renovateapp,Go,10603
+Renovateapp,Shell,2170
+Renovateapp,Rust,1118
+Renovateapp,HTML,950
+Renovateapp,Mustache,250
+Renovateapp,C#,1079
+Renovateapp,Swift,161
+Renovateapp,Smarty,30
+Renovateapp,FLUX,16
+Renovateapp,CSS,21
+Renovateapp,GLSL,9
+Renovateapp,SCSS,22
+Renovateapp,Gherkin,1
+Renovateapp,Elixir,4
+Renovateapp,CMake,1
+Renovateapp,Vue,81
+Renovateapp,HCL,2400
+Renovateapp,Jupyter Notebook,55
+Renovateapp,Elm,1
+Renovateapp,Less,6
+Renovateapp,Crystal,3
+Renovateapp,JavaScript,4512
+Renovateapp,Java,13817
+Renovateapp,Starlark,287
+Renovateapp,PHP,3013
+Renovateapp,C,53
+Renovateapp,Clojure,96
+Renovateapp,Svelte,23
+Renovateapp,Dart,11
+Renovateapp,Makefile,437
+Renovateapp,EJS,8
+Wind River,Go,5
+Wind River,Perl,5
+Wind River,Jinja,4
+Wind River,Java,1
+Wind River,C++,1
+Wind River,Shell,3
+Wind River,C,8
+Wind River,Python,40
+Wind River,BitBake,27
+TI,BitBake,30
+TI,C,24
+Kainos,JavaScript,45
+Kainos,HCL,1
+Kainos,Shell,3
+Kainos,HTML,12
+Kainos,CSS,1
+HERE,C++,35
+HERE,Java,13
+HERE,Kotlin,2
+HERE,TypeScript,5
+Wipro,PLpgSQL,20
+Wipro,TypeScript,5
+Wipro,C,4
+Wipro,Solidity,7
+Wipro,Java,2
+Wipro,JavaScript,19
+Wipro,Shell,1
+D2iQ,Mustache,69
+D2iQ,Go,7
+4teamwork,Python,28
+OpenLattice,Python,8
+OpenLattice,Kotlin,13
+OpenLattice,Rust,2
+EuroLinux,Dockerfile,260
+EuroLinux,Shell,1
+EuroLinux,Python,1
+Obvious Ventures,Kotlin,37
+Porsche AG and Subsidiaries,TypeScript,14
+Porsche AG and Subsidiaries,SCSS,1
+GatsbyJS,TypeScript,2
+GatsbyJS,JavaScript,18
+Pyup,Python,2749
+Pyup,JavaScript,779
+Pyup,HTML,50
+Pyup,RobotFramework,1
+Pyup,Jupyter Notebook,76
+Pyup,Jinja,7
+Pyup,SCSS,1
+Pyup,CSS,17
+Pyup,Makefile,2
+Pyup,Dockerfile,3
+Pyup,C,2
+Pyup,C++,4
+SYSOP,Kotlin,5825
+SYSOP,JavaScript,18
+SYSOP,Python,14652
+SYSOP,Java,1
+Yunion,Go,64
+Yunion,Vue,8

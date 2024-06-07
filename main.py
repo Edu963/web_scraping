@@ -34,9 +34,8 @@ if __name__ == "__main__":
         osci_df = osci.process_data(data)
         print(osci_df)
 
-        
-
-
+        tiobe_df.to_csv('tiobe_index.csv', index=False)
+        osci_df.to_csv('osci_ratio.csv', index=False)
 
     except Exception as e:
         print(f"An error occurred: {e}")
