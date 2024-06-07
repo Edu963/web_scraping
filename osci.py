@@ -83,36 +83,36 @@ def hbar_active_companies(df,economist_palette):
     plt.show()
 
 # Main execution flow
-if __name__ == "__main__":
-    url = 'https://ststaticprodosciwebz2vmu.blob.core.windows.net/data/osci-ranking/monthly/2023/12.json'
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0',
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Sec-Fetch-Dest': 'empty',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'cross-site'
-    }
+# if __name__ == "__main__":
+#     url = 'https://ststaticprodosciwebz2vmu.blob.core.windows.net/data/osci-ranking/monthly/2023/12.json'
+#     headers = {
+#         'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0',
+#         'Accept': 'application/json, text/plain, */*',
+#         'Accept-Language': 'en-US,en;q=0.5',
+#         'Sec-Fetch-Dest': 'empty',
+#         'Sec-Fetch-Mode': 'cors',
+#         'Sec-Fetch-Site': 'cross-site'
+#     }
 
-    try:
-        data = fetch_data(url, headers)
-        df = process_data(data)
-        print(df)
+#     try:
+#         data = fetch_data(url, headers)
+#         df = process_data(data)
+#         print(df)
 
-        # Define the color palette
-        economist_palette = ['#E3120B', '#5B9BD5', '#A5A5A5', '#ED7D31','#203864','#FFD966' ,'#70AD47','#DEEBF7','#7030A0','#36454F']
+#         # Define the color palette
+#         economist_palette = ['#E3120B', '#5B9BD5', '#A5A5A5', '#ED7D31','#203864','#FFD966' ,'#70AD47','#DEEBF7','#7030A0','#36454F']
 
-        # print(df["licenses"].sum())
-        print("toto0")
-        # Plot visualizations
-        plot_industry_active(df,economist_palette)
-        plot_license_distribution(df, economist_palette)  
-        hbar_active_companies(df, economist_palette)
-    except Exception as e:
-        print(f"An error occurred: {e}")
+#         # print(df["licenses"].sum())
+#         print("toto0")
+#         # Plot visualizations
+#         plot_industry_active(df,economist_palette)
+#         plot_license_distribution(df, economist_palette)  
+#         hbar_active_companies(df, economist_palette)
+#     except Exception as e:
+#         print(f"An error occurred: {e}")
 
 
-# Extract the 'languages' column
-languages_data = df['languages']
+# # Extract the 'languages' column
+# languages_data = df['languages']
 
-print(languages_data)
+# print(languages_data)
